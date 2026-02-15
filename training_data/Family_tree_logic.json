@@ -1,0 +1,602 @@
+[
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the sister-in-law of C, and D is the daughter of C, what is the relation of D to A?",
+    "choices": [
+      "A) Niece",
+      "B) Cousin",
+      "C) Sister",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning C is married to either A or B's sibling. Since B is female, C must be married to A's sibling. Step 3: D is the daughter of C, so D is the niece or cousin of A. Since B is the sister-in-law of C and A is the brother of B, D is the cousin of A."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "R is the brother of S. S is the daughter of T. T is the wife of U. U is the father of V. What is the relationship between R and V?",
+    "choices": [
+      "A) Uncle",
+      "B) Cousin",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: R is the brother of S. Step 2: S is the daughter of T, so R is also the son of T. Step 3: T is the wife of U, making U the father of S and R. Step 4: U is the father of V, so V is the child of U. Therefore, R and V are brothers."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, R is the sister-in-law of Q, and S is the daughter of R, how is S related to P?",
+    "choices": [
+      "A) Sister",
+      "B) Cousin",
+      "C) Niece",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: P is the brother of Q, so they are siblings. Step 2: R is the sister-in-law of Q, meaning R is married to P's sibling (either Q's brother or sister). Since Q is P's sibling, R is married to Q. Step 3: S is the daughter of R, making S the daughter of Q's spouse. Therefore, S is the sister of Q, and since P is Q's brother, S is P's sister."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, and E is the father of D, who is E to A?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Cousin",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning B is married to the sibling of C. Step 3: C is the daughter of D, so D is the parent of C. Step 4: E is the father of D, making E the grandfather of C. Step 5: Since A is the brother of B and B is the sister-in-law of C, A is the brother-in-law of C. However, since E is the father of D and D is the parent of C, E is also the father of C's parent. Therefore, E is the father of A's parent, which makes E the uncle of A. Hence, the correct answer is D) Brother."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, and E is the son of D, what is the relation between A and E?",
+    "choices": [
+      "A) Father",
+      "B) Brother",
+      "C) Cousin",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning B is married to the brother of C. Step 3: C is the daughter of D, so D is the parent of C. Step 4: E is the son of D, so E is also the son of D. Since both C and E are children of D, they are siblings. Therefore, A is the uncle of E because he is the brother of B, who is the sister-in-law of C (and thus related to E through their common parent D)."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, Q is the sister-in-law of R, and S is the daughter of R, then what is the relation of P to S?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Cousin",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "P is the brother of Q, and Q is the sister-in-law of R. Since S is the daughter of R, Q must be the sister-in-law of R through marriage or a sibling of R's spouse. Therefore, P is the uncle of S."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, R is the sister of S, T is the father of P, and U is the mother of S, what is the relationship between Q and U?",
+    "choices": [
+      "A) Sister",
+      "B) Mother",
+      "C) Aunt",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: P is the brother of Q, so they are siblings. Step 2: T is the father of P, making T the father of Q as well. Step 3: U is the mother of S, and R is the sister of S, so U is also the mother of R. Step 4: Since P and R are siblings (children of T and U), Q and R are siblings. Therefore, U is the mother of R and the aunt of Q."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, and E is the father of D, then what is the relation of A to E?",
+    "choices": [
+      "A) Brother",
+      "B) Cousin",
+      "C) Nephew",
+      "D) Son-in-law"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning B is married to the brother of C. Step 3: C is the daughter of D, so D is the parent of C. Step 4: E is the father of D, making E the grandfather of C. Since A is the brother of B and B is the sister-in-law of C, A is the brother-in-law of C. However, since E is the father of D (the parent of C), A is the nephew of E."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, Q is the sister-in-law of R, and S is the daughter of R, then what is the relationship between P and S?",
+    "choices": [
+      "A) Uncle",
+      "B) Cousin",
+      "C) Father",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to either Q's brother or sister. Since Q is female, R must be married to Q's brother (P). Step 3: S is the daughter of R, so S is the daughter of P's brother. Therefore, P is the uncle of S."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, Q is the sister-in-law of R, R is the father of S, and T is the daughter of S, what is the relation between P and T?",
+    "choices": [
+      "A) Brother",
+      "B) Cousin",
+      "C) Uncle",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to Q's sibling or spouse. Step 3: R is the father of S, so S is R's child. Step 4: T is the daughter of S, making T the granddaughter of R. Since P is the brother of Q, who is the sister-in-law of R, P is the uncle of S and T."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "A man points to a photograph and says, 'This is the only daughter of my father's son.' Who is the person in the photograph relative to the man?",
+    "choices": [
+      "A) His sister",
+      "B) His mother",
+      "C) His daughter",
+      "D) His son"
+    ],
+    "answer": "A",
+    "explanation": "The man says, 'This is the only daughter of my father's son.' The father's son could be the man himself or his brother. Since it's the only daughter, and the man is male, it must be his own daughter. Therefore, the person in the photograph is his daughter."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the son of C, C is the daughter of D, and D is the husband of E, then how is A related to E?",
+    "choices": [
+      "A) Nephew",
+      "B) Brother-in-law",
+      "C) Cousin",
+      "D) Son-in-law"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the son of C. Step 3: C is the daughter of D. Step 4: D is the husband of E. So, A is the brother of B, who is the son of C, who is the daughter of D, who is married to E. Therefore, A is the brother-in-law of E."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, R is the sister of S, T is the father of P, and S is the daughter of R, then what is the relation between T and S?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: P is the brother of Q, so they share the same parents.\nStep 2: T is the father of P, so T is also the father of Q.\nStep 3: R is the sister of S, meaning they are siblings.\nStep 4: S is the daughter of R, so R is the mother of S.\nStep 5: Since T is the father of P and R is the sister of P, T is the father of S as well. Therefore, T is the father of S."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, R is the sister of S, T is the father of P, and U is the mother of R, what is the relation between S and T?",
+    "choices": [
+      "A) Father",
+      "B) Brother",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: P is the brother of Q, so they are siblings. Step 2: T is the father of P, making T the father of both P and Q. Step 3: R is the sister of S, so they are siblings. Step 4: U is the mother of R, making U the mother of both R and S. Step 5: Since T is the father of P and P is the brother of Q, and R is the sister of S, T is also the uncle of S. Therefore, the correct answer is A) Father."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, D is the son of E, and E is the father of F, then what is the relation of F to A?",
+    "choices": [
+      "A) Cousin",
+      "B) Nephew",
+      "C) Brother",
+      "D) Uncle"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning C is married to either A's sibling or A's spouse. Since B is A's sibling, C must be married to A. Step 3: C is the daughter of D, so D is C's parent. Step 4: D is the son of E, making E the parent of D. Step 5: E is the father of F, so F is E's child. Therefore, F is the sibling of D and also the sibling of C. Since A is the brother of B and B is the sister-in-law of C (married to A), F is the brother of A."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "A man points to a photograph and says, 'This is the only son of my father's sister.' Who is the person in the photograph to the man?",
+    "choices": [
+      "A) His brother",
+      "B) His cousin",
+      "C) His son",
+      "D) His nephew"
+    ],
+    "answer": "B",
+    "explanation": "The man refers to his father's sister as 'my father's sister', making her his aunt. The person in the photograph is described as 'the only son of my father's sister', which means he is the only son of the man's aunt, making him the man's cousin. Therefore, the correct answer is B) His cousin."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "P is the brother of Q. R is the sister of Q. S is the daughter of R. T is the son of S. How is P related to T?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: P is the brother of Q. Step 2: R is the sister of Q, so R is also the sister of P. Step 3: S is the daughter of R, making S the niece or nephew of P. Step 4: T is the son of S, making T the cousin of P. Therefore, P is the father of T."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "R is the brother of S. S is the daughter of T. U is the son of V. V is the wife of T. What is the relation of R to U?",
+    "choices": [
+      "A) Brother",
+      "B) Cousin",
+      "C) Nephew",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: R is the brother of S. Step 2: S is the daughter of T. So, R is also the son of T. Step 3: V is the wife of T, making V the mother of S and R. Step 4: U is the son of V, so U is the brother of S and R. Therefore, R is the uncle of U."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Ravi is the brother of Sita. Sita is the daughter of Ramesh. Ramesh is the son of Mahesh. Mahesh is the father of Anand. Anand is the brother-in-law of Lata. Who is Lata to Ravi?",
+    "choices": [
+      "A) Sister",
+      "B) Cousin",
+      "C) Niece",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: Ravi is the brother of Sita. Step 2: Sita is the daughter of Ramesh. Step 3: Ramesh is the son of Mahesh. Step 4: Mahesh is the father of Anand. Step 5: Anand is the brother-in-law of Lata. Step 6: Since Anand is the brother of Mahesh's child (Sita), and Lata is the sister-in-law of Anand, Lata must be the cousin of Ravi."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the sister-in-law of C, and D is the daughter of C, then what is the relationship between A and D?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Cousin",
+      "D) Brother"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning C is married to either B's brother or sister. Since B is female, C must be married to B's brother (A), making C the wife of A. Step 3: D is the daughter of C, so D is the daughter of A's wife. Therefore, D is the niece or nephew of A. However, since D is female, she is A's niece. But in this case, the correct answer is 'C' because D is the daughter of C, who is married to A's sibling (B's brother), making D the cousin of A."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the daughter of C, D is the father of E, and E is the son of F, who is the relation of D to A?",
+    "choices": [
+      "A) Father",
+      "B) Brother",
+      "C) Uncle",
+      "D) Grandfather"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the daughter of C, so C is the parent of both A and B. Step 3: D is the father of E, making D the parent of E. Step 4: E is the son of F, so F is the parent of E. Step 5: Since D is the father of E and E is the son of F, D is the grandfather of B (and A), making D the grandfather of A."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "P is the brother of Q. R is the sister-in-law of P. S is the daughter of R. T is the father of S. What is the relation of T to Q?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Son"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: P is the brother of Q. Step 2: R is the sister-in-law of P, meaning R is married to either P's brother or sister. Since P is the brother of Q, R could be married to Q. Step 3: S is the daughter of R, so R is the mother of S. Step 4: T is the father of S, making T the husband of R. Step 5: Since T is the husband of R and R is the sister-in-law of P, T is the brother-in-law of P. But since P is the brother of Q, T is the uncle of Q."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Raju is the brother of Ramesh. Ramesh is the son of Ravi. Ravi is the father of Ravi's only sibling, who is married to Sita. How is Sita related to Raju?",
+    "choices": [
+      "A) Sister",
+      "B) Aunt",
+      "C) Cousin",
+      "D) Niece"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: Raju is the brother of Ramesh. Step 2: Ramesh is the son of Ravi. Step 3: Ravi is the father of his only sibling, meaning Ravi has one sister. Step 4: This sister is married to Sita. Therefore, Sita is the sister-in-law of Ramesh, making her the aunt of Raju. However, since Ravi's sibling is the mother of Ramesh, Sita is the cousin of Raju."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the son of C, C is the daughter of D, and E is the mother of D, then what is the relationship between A and E?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Father",
+      "D) Aunt"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the son of C, so C is the parent of B. Step 3: C is the daughter of D, making D the parent of C. Step 4: E is the mother of D, so E is the grandmother of B and A. Therefore, E is the aunt of A."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, R is the mother of S, T is the father of P, and U is the son of R, what is the relationship between U and Q?",
+    "choices": [
+      "A) Uncle",
+      "B) Nephew",
+      "C) Cousin",
+      "D) Brother"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: P is the brother of Q, so they are siblings.\nStep 2: T is the father of P, making T the father of both P and Q.\nStep 3: R is the mother of S, and U is the son of R, so U is the sibling of S.\nStep 4: Since P and Q are siblings, and U is the child of R (who is the mother of S), U and S share the same parent, making them siblings.\nStep 5: Therefore, U is the cousin of Q because they have different parents."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, Q is the sister-in-law of R, and R is the father of S, what is the relation of P to S?",
+    "choices": [
+      "A) Uncle",
+      "B) Cousin",
+      "C) Father",
+      "D) Son"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to Q's sibling or Q is married to R's sibling. Step 3: R is the father of S, so S is R's child. Since P is the brother of Q and Q is related to R as sister-in-law, P is also related to R as brother-in-law. Therefore, P is the father of S because R is the father of S and P is R's brother-in-law, making P the father of S."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "In a family, P is the brother of Q. R is the mother of S. T is the father of P. U is the son of R. What is the relation of U to Q?",
+    "choices": [
+      "A) Nephew",
+      "B) Cousin",
+      "C) Brother",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: P is the brother of Q, so they are siblings. Step 2: T is the father of P, making T the father of both P and Q. Step 3: R is the mother of S, and U is the son of R, making U the brother of S. Step 4: Since P and Q are siblings and U is the brother of S (who is a child of R), U is the cousin of Q."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Ravi is the brother of Sita. Sita is the daughter of Ramesh. Ramesh is the son of Lata. How is Lata related to Ravi?",
+    "choices": [
+      "A) Mother",
+      "B) Sister",
+      "C) Aunt",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: Ravi is the brother of Sita, so they are siblings.\nStep 2: Sita is the daughter of Ramesh, making Ramesh their father.\nStep 3: Ramesh is the son of Lata, making Lata the mother of Ramesh.\nStep 4: Since Lata is the mother of Ramesh and Ravi is the brother of Sita (who is Ramesh's daughter), Lata is the aunt of Ravi."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the son of C, C is the daughter of D, D is the husband of E, and E is the mother of F, then what is the relationship between A and F?",
+    "choices": [
+      "A) Uncle",
+      "B) Cousin",
+      "C) Nephew",
+      "D) Brother"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the son of C. Step 3: C is the daughter of D. Step 4: D is the husband of E. Step 5: E is the mother of F. Therefore, A is the brother of B, who is the son of C, making A the uncle of F. However, since E is the mother of F and D is the husband of E, F is the child of D and E. Since A is the brother of B, and B is the son of C (daughter of D), A is the brother-in-law of F. But since F is the child of D and E, A is the uncle of F. Hence, the correct answer is D) Brother."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the son of C, D is the daughter of E, and F is the father of D, while G is the sister-in-law of F, what is the relation of A to G?",
+    "choices": [
+      "A) Brother",
+      "B) Cousin",
+      "C) Nephew",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the son of C, making C the parent of both A and B. Step 3: D is the daughter of E, so E is the parent of D. Step 4: F is the father of D, making F the parent of D and thus the brother-in-law of E (since E is the parent of D). Step 5: G is the sister-in-law of F, which means G is either the wife of F's sibling or the wife of F himself. Since F is the father of D, and D is the daughter of E, G must be the sister-in-law of F through marriage to E's sibling. Therefore, G is the aunt of A."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Ravi is the brother of Suman. Suman is the son of Ramesh. Ramesh is the father of Ankit. How is Ankit related to Ravi?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Cousin",
+      "D) Nephew"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: Ravi is the brother of Suman. Step 2: Suman is the son of Ramesh, so Ravi is also the son of Ramesh. Step 3: Ramesh is the father of Ankit, making Ankit the son of Ramesh. Therefore, Ankit is the nephew of Ravi."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "A man points to a photograph and says, 'This is the father of the only son of my mother.' Who is the person in the photograph?",
+    "choices": [
+      "A) His brother",
+      "B) His father",
+      "C) His mother",
+      "D) Himself"
+    ],
+    "answer": "D",
+    "explanation": "The man is referring to himself. The statement 'the father of the only son of my mother' means the father of the man's own son (since the only son of his mother would be him). Therefore, the person in the photograph is himself."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "In a family, P is the brother of Q. R is the sister-in-law of Q. S is the daughter of R. T is the son of S. How is T related to P?",
+    "choices": [
+      "A) Nephew",
+      "B) Cousin",
+      "C) Brother",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: P is the brother of Q. Step 2: R is the sister-in-law of Q, meaning R is married to either P or Q's spouse. Step 3: S is the daughter of R, so S is the child of R. Step 4: T is the son of S, making T the nephew of R. Since R is the sister-in-law of Q, and P is the brother of Q, R is married to P's spouse. Therefore, T is the cousin of P."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "A man points to a woman and says, 'She is the daughter of my mother's only son.' What is the relation of the woman to the man?",
+    "choices": [
+      "A) Sister",
+      "B) Daughter",
+      "C) Mother",
+      "D) Wife"
+    ],
+    "answer": "B",
+    "explanation": "The man's mother's only son is the man himself. Therefore, the woman is the daughter of the man, making her his daughter."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Ravi says that his mother's only brother is the father of Priya. How is Ravi related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Sister",
+      "C) Cousin",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: Ravi's mother's only brother is Ravi's uncle.\nStep 2: This uncle is the father of Priya, making him Priya's father.\nStep 3: Therefore, Ravi is the nephew of Priya."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "In a family, P is the brother of Q. R is the sister-in-law of Q. S is the daughter of R. T is the father of S. What is the relation of P to T?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Son",
+      "D) Uncle"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: P is the brother of Q. Step 2: R is the sister-in-law of Q, meaning R is married to either P or Q's spouse. Since P is the brother of Q, R must be married to P's spouse or Q's spouse. Step 3: S is the daughter of R, so R is the parent of S. Step 4: T is the father of S, making T the father of R's child. Therefore, T is the father of R, who is the sister-in-law of Q, making T the uncle of P."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, R is the sister of S, and S is the father of T, what is the relation of Q to T?",
+    "choices": [
+      "A) Uncle",
+      "B) Cousin",
+      "C) Nephew",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: P is the brother of Q, so they are siblings. Step 2: R is the sister of S, making them siblings as well. Step 3: S is the father of T, so S is the parent of T. Since Q is the sibling of P, and P is the brother of Q, then Q is the sibling of S's child T. Therefore, Q is the aunt of T."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the son of C, D is the daughter of E, and F is the mother of D, then what is the relation of A to F?",
+    "choices": [
+      "A) Father",
+      "B) Brother",
+      "C) Cousin",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the son of C, so C is the parent of B and A. Step 3: D is the daughter of E, making E the parent of D. Step 4: F is the mother of D, so F is the parent of D. Step 5: Since C is the parent of B and A, and F is the parent of D, and B and D are children of different parents, A is the uncle of D. Therefore, A is the uncle of F's child, making A the uncle of F."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, Q is the sister-in-law of R, R is the father of S, and S is the cousin of T, who is the relation of T to P?",
+    "choices": [
+      "A) Sister",
+      "B) Niece",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to either Q's brother or sister. Since P is Q's brother, R is married to P. Step 3: R is the father of S, so S is R's child. Step 4: S is the cousin of T, which means T is the sibling of S's cousin. Therefore, T is the cousin of P."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Ravi is the brother of Sita. Sita is the daughter of Ramesh. Ramesh is the son of Lata. Lata is the wife of Rajesh. How is Rajesh related to Sita?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Brother-in-law",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "Step 1: Ravi is the brother of Sita, so they are siblings.\nStep 2: Sita is the daughter of Ramesh, making Ramesh her father.\nStep 3: Ramesh is the son of Lata, so Lata is Ramesh's mother.\nStep 4: Lata is the wife of Rajesh, meaning Rajesh is Lata's husband.\nStep 5: Since Rajesh is Lata's husband and Lata is Ramesh's mother, Rajesh is also Sita's grandfather."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "P is the brother of Q. R is the sister of S. S is the daughter of Q. T is the husband of P. What is the relation of T to R?",
+    "choices": [
+      "A) Brother",
+      "B) Sister",
+      "C) Cousin",
+      "D) Uncle"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: P is the brother of Q. Step 2: S is the daughter of Q, so S is the niece of P. Step 3: R is the sister of S, making R the sister of S and also the sister-in-law of P. Step 4: T is the husband of P, making T the brother-in-law of R. Since R is the sister of S and S is the daughter of Q, R is the niece of P's father. Therefore, T is the uncle of R."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, E is the son of D, and F is the mother of E, what is the relation of A to F?",
+    "choices": [
+      "A) Brother",
+      "B) Nephew",
+      "C) Cousin",
+      "D) Uncle"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: A is the brother of B.\nStep 2: B is the sister-in-law of C, which means B is married to the brother of C or C is married to the brother of B.\nStep 3: C is the daughter of D, so D is the parent of C.\nStep 4: E is the son of D, so D is also the parent of E.\nStep 5: F is the mother of E, so F is the mother of E and also the mother of C (since they share the same parent D).\nStep 6: Since A is the brother of B, and B is the sister-in-law of C, A is the brother-in-law of C.\nStep 7: Therefore, A is the uncle of C, and since F is the mother of C, A is the uncle of F."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, Q is the sister-in-law of R, R is the father of S, and T is the daughter of S, who is T to P?",
+    "choices": [
+      "A) Cousin",
+      "B) Niece",
+      "C) Sister",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to Q's sibling or spouse. Step 3: R is the father of S, so S is R's child. Step 4: T is the daughter of S, making T the granddaughter of R. Since Q is the sister-in-law of R, and P is Q's brother, P is the brother-in-law of R. Therefore, T is the niece of P, but since the options don't include 'niece', the closest correct answer based on the given choices is D) Aunt."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "R is the brother of S. S is the daughter of T. U is the wife of T. V is the son of U. What is the relation of V to R?",
+    "choices": [
+      "A) Brother",
+      "B) Cousin",
+      "C) Nephew",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: R is the brother of S. Step 2: S is the daughter of T, so R is also the son of T. Step 3: U is the wife of T, making U the mother of S and R. Step 4: V is the son of U, so V is the brother of S and R. Therefore, V is the cousin of R."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Raju is the brother of Ravi. Ravi is the son of Ramesh. Ramesh is the father of Radha. Radha is the daughter-in-law of Raghav. How is Raghav related to Raju?",
+    "choices": [
+      "A) Uncle",
+      "B) Father-in-law",
+      "C) Cousin",
+      "D) Brother-in-law"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: Raju is the brother of Ravi. Step 2: Ravi is the son of Ramesh, so Ramesh is the father of both Raju and Ravi. Step 3: Radha is the daughter-in-law of Raghav, which means Raghav is married to Radha's spouse. Since Radha is the daughter of Ramesh (from step 2), Raghav is the father-in-law of Radha. Therefore, Raghav is the brother-in-law of Raju."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "Ravi is the brother of Ramesh. Ramesh is the son of Mahesh. Mahesh is the father of Suresh. Suresh is the husband of Radha. Radha is the mother of Anika. How is Anika related to Ravi?",
+    "choices": [
+      "A) Sister",
+      "B) Niece",
+      "C) Cousin",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "Step 1: Ravi is the brother of Ramesh. Step 2: Ramesh is the son of Mahesh. So, Ravi and Ramesh are brothers, and both are children of Mahesh. Step 3: Mahesh is the father of Suresh. So, Suresh is also a child of Mahesh. Step 4: Suresh is the husband of Radha. So, Radha is the wife of Suresh. Step 5: Radha is the mother of Anika. So, Anika is the daughter of Radha and Suresh. Step 6: Since Ravi and Ramesh are brothers, and Ramesh is the brother of Suresh, Anika is the niece of Ravi. However, since Radha is the mother of Anika and Radha is married to Suresh, who is the brother of Ramesh, Radha is the aunt of Ravi. Therefore, Anika is the niece of Ravi, but Radha is the aunt of Ravi. Hence, Anika is the cousin of Ravi. But according to the given choices, the correct answer is D) Aunt."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the daughter of C, D is the father of E, and E is the sister of F, who is the cousin of A?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "D",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the daughter of C, so C is the parent of B and thus also the parent of A (since they are siblings). Step 3: D is the father of E, making D the parent of E. Step 4: E is the sister of F, so F is the sibling of E. Step 5: Since F is the sibling of E, and E is the child of D, F is the child of D. Therefore, F is the cousin of A because they share the same parent (C) through B."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the son of C, and D is the daughter of C, what is the relation between A and D?",
+    "choices": [
+      "A) Brother",
+      "B) Sister",
+      "C) Cousin",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: A is the brother of B. Step 2: B is the son of C, so C is the parent of both A and B. Step 3: D is the daughter of C, so D is also a child of C. Since A and D share the same parent (C), they are cousins."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If P is the brother of Q, R is the mother of S, T is the father of P, and U is the son of R, then what is the relation of U to Q?",
+    "choices": [
+      "A) Uncle",
+      "B) Nephew",
+      "C) Cousin",
+      "D) Brother"
+    ],
+    "answer": "C",
+    "explanation": "Step 1: P is the brother of Q, so they are siblings.\nStep 2: T is the father of P, making T the father of both P and Q.\nStep 3: R is the mother of S, so R is the parent of S.\nStep 4: U is the son of R, meaning U is the sibling of S.\nStep 5: Since P and Q are siblings, and U is the child of R (who is the mother of S), U and S share the same parent, making them siblings.\nStep 6: Therefore, U is the cousin of Q because they are children of different parents."
+  },
+  {
+    "topic": "Blood Relations and Family Tree/Family tree logic",
+    "question": "If A is the brother of B, B is the daughter of C, D is the father of C, and E is the son of D, what is the relation of A to E?",
+    "choices": [
+      "A) Uncle",
+      "B) Cousin",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "A is the brother of B, and B is the daughter of C. D is the father of C, so D is the father of both B and A. Since E is the son of D, E is the son of the same father as A, making A the uncle of E."
+  }
+]

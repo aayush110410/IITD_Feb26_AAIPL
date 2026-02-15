@@ -1,0 +1,83 @@
+[
+    "{\"!topic\":\"Logical Reasoning/Syllogisms\",\"!question\":\"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\",\"!choices\":[\"A) A) Only Conclusion I follows\",\"B) B) Only Conclusion II follows\",\"C) C) Both I and II follow\",\"D) D) Neither I nor II follows\"],\"!answer\":\"D\",\"!explanation\"} {\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\", \"choices\": [\"A) A) If only conclusion I follows\", \"B) B) If only conclusion II follows\", \"C) C) If conclusions I and II both follow\", \"D) D) If neither conclusion I nor conclusion II follows\"], \"answer\": \"\", \"explanation\": \"\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\nII. All novels are stories.\\nIII. Some stories are poems.\\n\\nConclusion I: Some poems are books.\\nConclusion II: Some stories are novels.\"}{\"!\"}{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statements:\\nI. Some books are novels.\\",
+    {
+        "exit_code": 0
+    },
+    {
+        "!topic": "Series and Patterns/Mixed Series",
+        "!question": "(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z)",
+        "!choices": [
+            "A) A) QRS",
+            "B) B) TUV",
+            "C) C) VWX",
+            "D) D) XYZ"
+        ],
+        "!answer": "C",
+        "!explanation": {
+            "step1": "Step 1: Identify the pattern.",
+            "step2": "Step 2: Determine how each element progresses.",
+            "step3": "Step 3: Confirm that choice C fits this progression."
+        }
+    },
+    {
+        "!topic": "Syllogisms",
+        "!question": "Statements:\nI) All cars have engines.\nII) Some engineers drive cars.\nIII) Only one person can repair a car at a time.\n\nConclusions:\nI) At least two people work together repairing vehicles.\nII) Engineers may own cars."
+    },
+    {
+        "topic": "Blood relations",
+        "question": "Ravi says,\"Poonam is the aunt of my cousin Mohit.\"How is Poonam related to Ravi?"
+    },
+    {
+        "topic": "Blood Relations",
+        "question": "Punit states,\" She is the aunt of my cousin.\" What relation does she hold?",
+        "choices": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+        ],
+        "answer": "C",
+        "explanation": "Step 1: Punit mentions \"my cousin\"\u2014this indicates their sibling relationship.\nStep 2: Step 3:"
+    },
+    {
+        "topic": "Syllogisms",
+        "question": "Statements: \nI. Only one person reads Hindi.\nII. At least two people speak English.",
+        "choices": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+        ]
+    },
+    {
+        "topic": "Blood Relation Logic",
+        "question": "Ravi says,\u201d\u2018Ram is the brother of my father's youngest child.\u2019 Who is Ram to Ravi?",
+        "choices": [
+            "A) Brother",
+            "B) Cousin",
+            "C) Nephew",
+            "D) Stepbrother"
+        ],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+        "question": "",
+        "choices": [],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+        "question": "P9K, Q8L, R7M, S6N, __?",
+        "choices": [
+            "A) T5O",
+            "B) U4P",
+            "C) V3R",
+            "D) W2S"
+        ],
+        "answer": "",
+        "explanation": "Step-by-step analysis reveals..."
+    }
+]

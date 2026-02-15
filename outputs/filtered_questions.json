@@ -1,0 +1,26 @@
+[
+    {
+        "topic": "Blood Relation Logic",
+        "question": "Ravi says,\u201d\u2018Ram is the brother of my father's youngest child.\u2019 Who is Ram to Ravi?",
+        "choices": [
+            "A) Brother",
+            "B) Cousin",
+            "C) Nephew",
+            "D) Stepbrother"
+        ],
+        "answer": "A",
+        "explanation": ""
+    },
+    {
+        "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+        "question": "P9K, Q8L, R7M, S6N, __?",
+        "choices": [
+            "A) T5O",
+            "B) U4P",
+            "C) V3R",
+            "D) W2S"
+        ],
+        "answer": "",
+        "explanation": "Step-by-step analysis reveals..."
+    }
+]

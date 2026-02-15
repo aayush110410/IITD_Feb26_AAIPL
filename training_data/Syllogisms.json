@@ -1,0 +1,218 @@
+[
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All cats are animals.\nStatement II: Some animals are mammals.\nConclusion I: Some cats are mammals.\nConclusion II: All animals are mammals.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "D",
+    "explanation": "Conclusion I may follow but is not guaranteed. Conclusion II is incorrect as not all animals are mammals."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All cats are mammals.\nStatement II: Some mammals are birds.\nConclusion I: Some cats are birds.\nConclusion II: No cats are birds.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "A",
+    "explanation": "Only conclusion I follows because the premises allow for some overlap between cats and birds through the intermediate category of mammals."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All teachers are kind.\nStatement II: Some students are not kind.\nConclusion I: Some students are not teachers.\nConclusion II: Some teachers are not students.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "B",
+    "explanation": "Conclusion II logically follows from the given statements, while Conclusion I does not necessarily follow."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All dogs are mammals.\nStatement II: Some mammals are birds.\nConclusion I: Some dogs are birds.\nConclusion II: Some mammals are not dogs.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "B",
+    "explanation": "Only Conclusion II logically follows from the given statements."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All doctors are professionals.\nStatement II: Some professionals are teachers.\nConclusion I: Some doctors are teachers.\nConclusion II: Some teachers are doctors.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "A",
+    "explanation": "Only conclusion I follows because the premises allow for some overlap between doctors and teachers, but not necessarily that some teachers are doctors."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All cats are mammals.\nStatement II: Some mammals are birds.\nConclusion I: Some cats are birds.\nConclusion II: Some mammals are not cats.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "A",
+    "explanation": "Only conclusion II logically follows from the given statements."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All doctors are honest.\nStatement II: Some honest people are teachers.\nConclusion I: Some teachers are doctors.\nConclusion II: Some doctors are teachers.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "D",
+    "explanation": "Neither conclusion logically follows from the given premises."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All doctors are humans.\nStatement II: Some humans are tall.\nConclusion I: Some doctors are tall.\nConclusion II: All doctors are tall.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "D",
+    "explanation": "The premises do not provide enough information to conclude either that some doctors are tall or that all doctors are tall."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All doctors are honest.\nStatement II: Some honest people are lawyers.\nConclusion I: Some doctors are lawyers.\nConclusion II: Some lawyers are honest.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "C",
+    "explanation": "Both conclusions logically follow from the given statements."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All books are novels.\nStatement II: Some novels are poems.\nConclusion I: Some books are poems.\nConclusion II: Some novels are not books.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "C",
+    "explanation": "Conclusion I follows because some novels are poems and all books are novels, so some books must be poems. Conclusion II also follows because if some novels are poems, then some novels are not books."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All birds are animals.\nStatement II: Some animals are mammals.\nConclusion I: Some birds are mammals.\nConclusion II: Some animals are not birds.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "C",
+    "explanation": "Conclusion II follows because some animals are mammals, and since all birds are animals, it is possible that some animals are not birds. Conclusion I does not necessarily follow because being an animal does not imply being a mammal."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All dogs are animals.\nStatement II: Some animals are mammals.\nConclusion I: Some dogs are mammals.\nConclusion II: No dogs are birds.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "B",
+    "explanation": "Conclusion I follows because if all dogs are animals and some animals are mammals, then some dogs must be mammals. Conclusion II does not logically follow as there is no information about birds in the premises."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All birds can fly.\nStatement II: Some animals are birds.\nConclusion I: Some animals can fly.\nConclusion II: Some birds are animals.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "B",
+    "explanation": "Conclusion II logically follows from the given statements, while Conclusion I does not necessarily follow because 'some animals are birds' does not guarantee that those animals can fly."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All cats are animals.\nStatement II: Some animals are not cats.\nConclusion I: Some animals are cats.\nConclusion II: No cat is an animal.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "B",
+    "explanation": "Conclusion II follows because 'Some animals are not cats' implies that there exists at least one animal that is not a cat, which is consistent with the idea that no cat is an animal. However, Conclusion I does not necessarily follow because 'Some animals are not cats' does not confirm that some animals are cats."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All dogs are animals.\nStatement II: Some animals are mammals.\nConclusion I: Some dogs are mammals.\nConclusion II: All mammals are animals.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "B",
+    "explanation": "Conclusion II is valid because all mammals are animals by definition. Conclusion I is also valid as some dogs being mammals can be inferred from the given premises."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All doctors are professionals.\nStatement II: Some professionals are not engineers.\nConclusion I: Some doctors are not engineers.\nConclusion II: Some professionals are doctors.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "D",
+    "explanation": "Conclusion I is invalid because the premises do not establish a direct relationship between doctors and engineers. Conclusion II is also invalid because 'some professionals are doctors' cannot be directly inferred from the given statements."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All doctors are professionals.\nStatement II: Some professionals are teachers.\nConclusion I: Some doctors are teachers.\nConclusion II: No doctors are teachers.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "D",
+    "explanation": "The premises do not provide sufficient information to conclude either that some doctors are teachers or that no doctors are teachers."
+  },
+  {
+    "topic": "Logical Reasoning/Syllogisms",
+    "question": "Statement I: All doctors are scientists.\nStatement II: Some scientists are engineers.\nConclusion I: Some engineers are doctors.\nConclusion II: Some engineers are scientists.",
+    "choices": [
+      "A) Only conclusion I follows",
+      "B) Only conclusion II follows",
+      "C) Both I and II follow",
+      "D) Neither I nor II follows"
+    ],
+    "answer": "A",
+    "explanation": "Only conclusion II logically follows from the given statements."
+  }
+]

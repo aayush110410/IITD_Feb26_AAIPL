@@ -1,0 +1,1802 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All cats are animals.\\nStatement II: Some animals are mammals.\\nConclusion I: Some cats are mammals.\\nConclusion II: All animals are mammals.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"D\", \"explanation\": \"Conclusion I may follow but is not guaranteed. Conclusion II is incorrect as not all animals are mammals.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All cats are mammals.\\nStatement II: Some mammals are birds.\\nConclusion I: Some cats are birds.\\nConclusion II: No cats are birds.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"A\", \"explanation\": \"Only conclusion I follows because the premises allow for some overlap between cats and birds through the intermediate category of mammals.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All teachers are kind.\\nStatement II: Some students are not kind.\\nConclusion I: Some students are not teachers.\\nConclusion II: Some teachers are not students.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"B\", \"explanation\": \"Conclusion II logically follows from the given statements, while Conclusion I does not necessarily follow.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All dogs are mammals.\\nStatement II: Some mammals are birds.\\nConclusion I: Some dogs are birds.\\nConclusion II: Some mammals are not dogs.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"B\", \"explanation\": \"Only Conclusion II logically follows from the given statements.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All doctors are professionals.\\nStatement II: Some professionals are teachers.\\nConclusion I: Some doctors are teachers.\\nConclusion II: Some teachers are doctors.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"A\", \"explanation\": \"Only conclusion I follows because the premises allow for some overlap between doctors and teachers, but not necessarily that some teachers are doctors.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All cats are mammals.\\nStatement II: Some mammals are birds.\\nConclusion I: Some cats are birds.\\nConclusion II: Some mammals are not cats.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"A\", \"explanation\": \"Only conclusion II logically follows from the given statements.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All doctors are honest.\\nStatement II: Some honest people are teachers.\\nConclusion I: Some teachers are doctors.\\nConclusion II: Some doctors are teachers.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"D\", \"explanation\": \"Neither conclusion logically follows from the given premises.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All doctors are humans.\\nStatement II: Some humans are tall.\\nConclusion I: Some doctors are tall.\\nConclusion II: All doctors are tall.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"D\", \"explanation\": \"The premises do not provide enough information to conclude either that some doctors are tall or that all doctors are tall.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All doctors are honest.\\nStatement II: Some honest people are lawyers.\\nConclusion I: Some doctors are lawyers.\\nConclusion II: Some lawyers are honest.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"C\", \"explanation\": \"Both conclusions logically follow from the given statements.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All books are novels.\\nStatement II: Some novels are poems.\\nConclusion I: Some books are poems.\\nConclusion II: Some novels are not books.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"C\", \"explanation\": \"Conclusion I follows because some novels are poems and all books are novels, so some books must be poems. Conclusion II also follows because if some novels are poems, then some novels are not books.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All birds are animals.\\nStatement II: Some animals are mammals.\\nConclusion I: Some birds are mammals.\\nConclusion II: Some animals are not birds.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"C\", \"explanation\": \"Conclusion II follows because some animals are mammals, and since all birds are animals, it is possible that some animals are not birds. Conclusion I does not necessarily follow because being an animal does not imply being a mammal.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All dogs are animals.\\nStatement II: Some animals are mammals.\\nConclusion I: Some dogs are mammals.\\nConclusion II: No dogs are birds.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"B\", \"explanation\": \"Conclusion I follows because if all dogs are animals and some animals are mammals, then some dogs must be mammals. Conclusion II does not logically follow as there is no information about birds in the premises.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All birds can fly.\\nStatement II: Some animals are birds.\\nConclusion I: Some animals can fly.\\nConclusion II: Some birds are animals.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"B\", \"explanation\": \"Conclusion II logically follows from the given statements, while Conclusion I does not necessarily follow because 'some animals are birds' does not guarantee that those animals can fly.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All cats are animals.\\nStatement II: Some animals are not cats.\\nConclusion I: Some animals are cats.\\nConclusion II: No cat is an animal.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"B\", \"explanation\": \"Conclusion II follows because 'Some animals are not cats' implies that there exists at least one animal that is not a cat, which is consistent with the idea that no cat is an animal. However, Conclusion I does not necessarily follow because 'Some animals are not cats' does not confirm that some animals are cats.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All dogs are animals.\\nStatement II: Some animals are mammals.\\nConclusion I: Some dogs are mammals.\\nConclusion II: All mammals are animals.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"B\", \"explanation\": \"Conclusion II is valid because all mammals are animals by definition. Conclusion I is also valid as some dogs being mammals can be inferred from the given premises.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All doctors are professionals.\\nStatement II: Some professionals are not engineers.\\nConclusion I: Some doctors are not engineers.\\nConclusion II: Some professionals are doctors.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"D\", \"explanation\": \"Conclusion I is invalid because the premises do not establish a direct relationship between doctors and engineers. Conclusion II is also invalid because 'some professionals are doctors' cannot be directly inferred from the given statements.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All doctors are professionals.\\nStatement II: Some professionals are teachers.\\nConclusion I: Some doctors are teachers.\\nConclusion II: No doctors are teachers.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"D\", \"explanation\": \"The premises do not provide sufficient information to conclude either that some doctors are teachers or that no doctors are teachers.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Logical Reasoning/Syllogisms. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Logical Reasoning/Syllogisms\", \"question\": \"Statement I: All doctors are scientists.\\nStatement II: Some scientists are engineers.\\nConclusion I: Some engineers are doctors.\\nConclusion II: Some engineers are scientists.\", \"choices\": [\"A) Only conclusion I follows\", \"B) Only conclusion II follows\", \"C) Both I and II follow\", \"D) Neither I nor II follows\"], \"answer\": \"A\", \"explanation\": \"Only conclusion II logically follows from the given statements.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people\\u2014A, B, C, D, E, F\\u2014are seated around a circular table. Each person is either facing the center or the outside. It is known that: (1) A is sitting immediately to the left of B, who is facing the center. (2) C is sitting opposite to D, and both are facing the outside. (3) E is sitting between F and A, and is facing the center. Who is sitting second to the right of B?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"Step 1: From constraint (1), A is immediately to the left of B, and B faces the center. Since it's a circular table, positions wrap around. Step 2: From constraint (3), E is between F and A, meaning F-E-A in order. Since A is to the left of B, the sequence must be F-E-A-B. Step 3: From constraint (2), C is opposite D, and both face outward. In a six-person circle, opposites are three seats apart. \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. The following conditions are given: 1. A is second to the left of B. 2. C is immediately to the right of D. 3. E is third to the right of F. 4. G is at one end of the row. Who is sitting third from the left?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"C\", \"explanation\": \"Step 1: Since G is at one end, let's place G at position 1 (leftmost). Step 2: From condition 1, A is second to the left of B. So if B is at position x, A must be at x-2. Possible positions for B could be 3 or later. Let's try B at 3, then A would be at 1, but that conflicts with G. Next possible is B at 4, so A at 2. Now we have G at 1, A at 2, B at 4. Step 3: From condition 2, C is immediately t\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five friends A, B, C, D, and E are sitting in a circle facing the center. A is second to the left of B. C is immediately to the right of D. Who is sitting opposite to A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) B\"], \"answer\": \"C\", \"explanation\": \"Step 1: Place A and B based on the constraint that A is second to the left of B. This means if A is at position 1, B is at position 3. Step 2: Place C immediately to the right of D, which can be done by placing D at position 4 and C at position 5. Step 3: Since it's a circle of five people, the person opposite to A would be two positions away. From A's position (1), moving two positions clockwise \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five people A, B, C, D, E are sitting in a straight line facing north. A is second to the left of B. C is immediately to the right of D. Who is sitting in the middle position?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"B\", \"explanation\": \"From the given information, A is second to the left of B, so the order is D, C, A, B. Since there are five people, the middle position is the third one, which is A. However, this contradicts the information that C is immediately to the right of D. The correct arrangement is D, C, A, B, E. Thus, B is in the middle position.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are sitting in a straight line facing north. The following conditions apply: 1. C is second to the left of E. 2. D is immediately to the right of B. 3. F is at one end. 4. A is not adjacent to D. Who is third from the left?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"C\", \"explanation\": \"From condition 3, F is at one end. Let's assume F is at the leftmost position (F _ _ _ _ _ _). From condition 1, C is second to the left of E, so possible positions for C and E could be (C, _, E) or (C, _, _, E), but since there are only seven seats, the only feasible placement is C in position 2 and E in position 4. From condition 2, D is immediately to the right of B, so possible pairs are (B, D\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people\\u2014A, B, C, D, E, F, G\\u2014are seated around a circular table. All are facing the center. A is second to the left of D. B is immediately to the right of E. F is third to the left of G. Who is sitting between A and D?\", \"choices\": [\"A) C\", \"B) B\", \"C) E\", \"D) F\"], \"answer\": \"C\", \"explanation\": \"Step 1: Since it's a circular table, positions wrap around. Step 2: A is second to the left of D, so if A is in position 1, D is in position 4. Step 3: B is immediately to the right of E, so they must be adjacent with E on the left. Step 4: F is third to the left of G, meaning if G is in position 6, F is in position 3. Step 5: Placing these clues together, we find that C is between A and D.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are seated in a straight line facing north. The following conditions apply: (1) A is immediately to the left of B. (2) C is at one end. (3) D is second to the right of E. (4) F is third to the left of G. Who is sitting in the middle position?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"C\", \"explanation\": \"From condition (2), C is at one end. Let's assume C is at the left end (position 1). From condition (1), A is immediately to the left of B, so they must occupy consecutive positions. From condition (3), D is second to the right of E, meaning if E is in position x, D is in x+2. From condition (4), F is third to the left of G, meaning if G is in position y, F is in y-3. By testing possible placement\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are seated in a straight line facing north. The following conditions apply: 1. A is second to the left of B. 2. C is immediately to the right of D. 3. E is third to the right of G. 4. F is at one end. Who is sitting in the middle position?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"Step 1: From condition 4, F is at one end. Let's assume F is at the leftmost position (position 1). Step 2: From condition 1, A is second to the left of B. This means if B is at position x, A is at x-2. Possible positions for B could be 3 or later. Step 3: From condition 2, C is immediately to the right of D. So D and C must be adjacent with D on the left. Step 4: From condition 3, E is third to t\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. A is second to the left of D. B is immediately to the right of E. F is third to the right of G. Who is sitting at the fourth position from the left?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"B\", \"explanation\": \"From the given information, we can deduce the positions step by step. First, A is second to the left of D, so if A is in position 1, D would be in position 3. Next, B is immediately to the right of E, so they must be consecutive with E on the left and B on the right. Finally, F is third to the right of G, meaning there are two people between G and F. By placing these clues together, we find that E\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are sitting around a circular table facing the center. A is second to the left of B. C is immediately to the right of D. E is third to the left of F. Who is sitting exactly between A and G?\", \"choices\": [\"A) B\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"Based on the given clues, we can determine the seating arrangement. A is second to the left of B, so the order is B, A, ... (with two seats between them). C is immediately to the right of D, so the order is D, C. E is third to the left of F, so the order is F, ..., ..., E. By placing these in a circle and ensuring all conditions are met, it turns out that D is sitting exactly between A and G.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting around a circular table. Each person is facing the center of the circle. It is given that A is second to the left of B, C is immediately to the right of D, and E is directly opposite F. Who is sitting immediately to the left of B?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"Step 1: Since it's a circular arrangement with six people, each person has two neighbors. Let's place B at position 1 for simplicity.\\nStep 2: A is second to the left of B, so A would be at position 5 (counting clockwise).\\nStep 3: C is immediately to the right of D, meaning they must be adjacent in order C-D or D-C.\\nStep 4: E is directly opposite F, which means they are three seats apart in either \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people\\u2014A, B, C, D, E, F, G\\u2014are seated around a circular table. A faces the center, and B sits immediately to the left of A. C is opposite to D, and E is sitting between F and G. Who is sitting second to the right of A?\", \"choices\": [\"A) B\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"B\", \"explanation\": \"Step 1: Place A at position 1 facing the center.\\nStep 2: B is immediately to the left of A, so B is at position 7.\\nStep 3: Since it's a circle, positions are 1-7 clockwise. Opposite to A (position 1) is position 4, so D is at position 4.\\nStep 4: C is opposite to D, so C is at position 1 (already taken by A), which contradicts. Therefore, D must be at position 4, making C at position 1 (incorrect).\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting around a circular table. All are facing the center. A is second to the left of B. C is immediately to the right of D. E is third to the right of F. Who is sitting exactly between G and H?\", \"choices\": [\"A) A\", \"B) C\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"Step 1: Since the table is circular and all face the center, positions wrap around. Step 2: Place A and B such that A is second to the left of B. This means if B is at position 1, A is at position 7. Step 3: C is immediately to the right of D, so they must be adjacent in order C-D or D-C. Step 4: E is third to the right of F, which means F is three positions to the left of E. Step 5: Using these c\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are seated around a circular table. Each person is either facing the center or the outside. It is known that: (i) A is sitting immediately to the left of B; (ii) C is sitting between D and E, and is facing the outside; (iii) F is sitting opposite to G and is facing the center; (iv) D is sitting immediately to the right of E. Who is sitting at position 5 if positions are numbered clockwise starting from A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"From the given information, we can deduce the seating arrangement. A is immediately to the left of B, so A and B are adjacent in that order. C is between D and E, with C facing the outside. D is immediately to the right of E, which means the order is E-D-C. F is opposite G and facing the center. By placing these clues together and numbering positions clockwise starting from A, we find that positio\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. The following conditions apply: (1) A sits second to the left of D. (2) E is immediately next to F. (3) G is at one end of the row. (4) B is not adjacent to E. Who is sitting third from the right end?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"From condition (1), A is two seats to the left of D. From condition (3), G is at one end, so either first or eighth position. Let's assume G is at the first position. Then, A cannot be in position 2 because that would make D in position 4, but then we need to place E and F together. If G is at position 8, then A can't be in position 7. Testing both positions for G leads us to conclude that G must \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people\\u2014A, B, C, D, E, F, G, H\\u2014are seated around a circular table. All are facing the center. A is second to the left of D. C is immediately to the right of B. E is third to the right of G. Who is sitting between F and H?\", \"choices\": [\"A) A\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"D\", \"explanation\": \"Step 1: Since it's a circular table, positions wrap around. Start by placing D at position 1. Then A is two positions to the left of D, so A is at position 6. Step 2: C is immediately to the right of B, so they must be adjacent in that order. Try placing B at position 2 and C at position 3. Step 3: E is three positions to the right of G. If G is at position 5, then E would be at position 8. Now ch\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a circle facing the center. A is second to the left of B. C is immediately to the right of D. E is third to the right of F. G is directly opposite to H. Who is sitting between C and D?\", \"choices\": [\"A) E\", \"B) F\", \"C) G\", \"D) A\"], \"answer\": \"B\", \"explanation\": \"From the given information, we know that C is immediately to the right of D. Therefore, D must be directly to the left of C. The person sitting between C and D would be the one immediately adjacent to both, which is not possible since they are next to each other. However, considering the circular arrangement and the positions of others, the correct answer based on the constraints provided is F.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are seated in a straight line facing north. The following conditions apply: (i) A is second to the left of B. (ii) C is immediately to the right of D. (iii) E is third to the right of F. (iv) G is at one end. Who is sitting third from the left?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"C\", \"explanation\": \"From condition (i), A is second to the left of B, so the arrangement could be _ _ A _ B _. From condition (ii), C is immediately to the right of D, so the arrangement could be D C _. From condition (iii), E is third to the right of F, so the arrangement could be _ _ _ F E _. From condition (iv), G is at one end, so the arrangement could be G _ _ _ F E _. Combining all these, the final arrangement \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people\\u2014A, B, C, D, E, F, G\\u2014are seated in a straight line facing north. The following conditions are given: \\n\\n1. A sits immediately to the left of B.\\n2. C is at one of the ends.\\n3. D is not adjacent to E.\\n4. F is second to the right of G.\\n5. E is not at either end.\\n\\nWho is sitting at the third position from the left?\", \"choices\": [\"A) A\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"C\", \"explanation\": \"Step 1: From condition 1, A is immediately to the left of B, so they must be seated as AB together.\\nStep 2: From condition 2, C is at one of the ends. Let's consider both possibilities for C: left or right end.\\nStep 3: From condition 4, F is second to the right of G, meaning G is two positions to the left of F. This gives us possible pairs like G-F or G-F with two seats between them.\\nStep 4: From \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five friends A, B, C, D, and E are sitting in a circle. Each person is facing the center of the circle. A is sitting to the left of B, and C is sitting opposite to D. Who is sitting immediately to the right of E?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"B\", \"explanation\": \"Step 1: Since they are sitting in a circle and each is facing the center, positions are arranged clockwise. Step 2: A is to the left of B, so A is immediately before B in the clockwise direction. Step 3: C is opposite D, meaning there are two people between them. Step 4: From the given information, we can deduce that the order around the circle is A, B, E, C, D. Step 5: Therefore, the person immed\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are sitting in a straight line facing north. The following conditions apply: 1) A is second to the left of B. 2) C is immediately to the right of D. 3) E is at one end. 4) F is third to the right of G. Who is sitting in the middle position?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"Step 1: From condition 3, E is at one end. Let's assume E is at the left end (position 1). Step 2: From condition 1, A is second to the left of B, so if B is at position 4, then A is at position 2. Step 3: From condition 2, C is immediately to the right of D, so possible positions for D and C could be (positions 5 and 6), or (positions 6 and 7). Step 4: From condition 4, F is third to the right of\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. The following conditions apply: 1) A is immediately to the left of B. 2) D is at one end. 3) C is not adjacent to D. 4) E is second to the right of G. Who is sitting third from the left?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"From condition 2, D is at one end. Let's assume D is on the far left (position 1). From condition 1, A is immediately to the left of B, so they must be together. From condition 4, E is second to the right of G, which means if G is in position x, E is in position x+2. Placing G in position 5 would put E in position 7. Then, C cannot be adjacent to D (position 1), so C can't be in position 2. Testin\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a circular table. Each person is facing the center of the circle. It is given that: A is sitting second to the left of B; C is sitting immediately next to D; E is sitting opposite to G; F is sitting third to the right of H. Who is sitting exactly between A and C?\", \"choices\": [\"A) B\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"Step 1: Since it's a circular table, we can fix one person's position for simplicity. Let's place A at position 1.\\nStep 2: A is second to the left of B, so B must be at position 4 (since moving clockwise, A is at 1, then positions 2, 3, and 4 are to the right). So B is at position 4.\\nStep 3: C is immediately next to D. This means they are adjacent to each other, either C-D or D-C.\\nStep 4: E is opp\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are seated in a straight line facing north. The following conditions apply: 1. A sits at one of the ends. 2. B is immediately to the left of C. 3. D is second to the right of E. 4. F is third to the left of G. Who is sitting at the fourth position from the left?\", \"choices\": [\"A) D\", \"B) E\", \"C) F\", \"D) G\"], \"answer\": \"D\", \"explanation\": \"From condition 1, A is at either end. Let's assume A is at position 1. From condition 2, B is immediately to the left of C, so they must be adjacent. From condition 3, D is second to the right of E, meaning E is two positions to the left of D. From condition 4, F is third to the left of G, meaning G is three positions to the right of F. Placing these constraints together, we find that D is in posi\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. The following conditions apply: 1) A is third to the left of E. 2) B is immediately to the right of D. 3) G is at one end. 4) F is second to the right of H. Who is sitting second from the left?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"From condition 3, G is at one end. Let's assume G is at position 1 (leftmost). From condition 1, A is third to the left of E. So if A is at position 2, E would be at position 5. From condition 2, B is immediately to the right of D. Possible positions for D and B could be D at 3 and B at 4. From condition 4, F is second to the right of H. If H is at 6, then F is at 8. This leaves C at position 7. N\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. The following conditions apply: (i) A is second to the left of B. (ii) C is immediately to the right of D. (iii) E is fourth to the right of G. (iv) F is at one end. Who is sitting at the fifth position from the left?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) G\"], \"answer\": \"C\", \"explanation\": \"From condition (iv), F is at one end, so either first or eighth position. From condition (i), A is second to the left of B, meaning if B is in position x, A is in x-2. From condition (ii), C is immediately to the right of D, meaning D and C are consecutive with D on the left. From condition (iii), E is fourth to the right of G, meaning if G is in position y, E is in y+4. By placing F at position 1\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. The following conditions apply: A sits second to the left of D; B is immediately next to E; C is at one end; G is third to the right of H; and F is not adjacent to A. Who is sitting at the fourth position from the left?\", \"choices\": [\"A) D\", \"B) E\", \"C) F\", \"D) G\"], \"answer\": \"D\", \"explanation\": \"Step 1: C is at one end, so either position 1 or 8. Let's assume C is at position 1.\\nStep 2: G is third to the right of H, so possible positions for H and G could be (H at 2, G at 5), (H at 3, G at 6), etc.\\nStep 3: A is second to the left of D, so if A is at 3, D is at 5; if A is at 4, D is at 6, etc.\\nStep 4: B is next to E, so they must be adjacent.\\nStep 5: F is not adjacent to A.\\nAfter testing a\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting around a circular table. A is facing the center, B is sitting second to the left of A, C is sitting opposite to B, D is immediately next to C, E is sitting third to the right of D, and F is sitting between E and A. Who is sitting directly opposite to A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"C\", \"explanation\": \"Step 1: Start by placing A at any position, say position 1, facing the center.\\nStep 2: Since B is second to the left of A, place B at position 6 (counting clockwise from A).\\nStep 3: C is opposite to B, so C is at position 3 (opposite of 6 in a circle of 6). \\nStep 4: D is immediately next to C, so D can be at position 2 or 4. Since E is third to the right of D, if D is at 2, then E would be at 5; i\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five friends A, B, C, D, and E are sitting in a straight line facing north. A is second to the left of B. C is immediately to the right of D. E is at one end. Who is sitting in the middle?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"A\", \"explanation\": \"From the clues: E is at one end. Since A is second to the left of B, their positions could be A _ B. C is immediately to the right of D, so D _ C. Combining these, the only possible arrangement is E D C B A. Therefore, A is in the middle.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting in a straight line facing north. A is third to the left of D. B is second to the right of E. C is immediately next to F. Who is at the extreme right end?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) F\"], \"answer\": \"A\", \"explanation\": \"Step 1: A is third to the left of D, so positions could be A _ _ D _ _. Step 2: B is second to the right of E, so possible positions for E and B are E _ B or E B _ or _ E B. Step 3: C is immediately next to F, so they must be adjacent. Combining all constraints, the only arrangement that fits is A _ _ D _ _ with B and E placed as E _ B and C and F placed as C F or F C. Since there are six seats, t\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five friends A, B, C, D, and E are sitting in a circle. A is sitting to the immediate left of B. C is sitting opposite to D. E is sitting between A and D. Who is sitting immediately to the right of A?\", \"choices\": [\"A) B\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"A\", \"explanation\": \"From the given information: A is to the left of B, so the order is A-B. C is opposite D, meaning they are seated across from each other. E is between A and D, which implies the sequence around the table is A-E-D-C-B. Therefore, the person to the right of A is B.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting in a straight line facing north. A is third to the left of F. B is immediately to the right of C. D is second to the left of E. Who is sitting at the second position from the left?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"B\", \"explanation\": \"From the clues: A is third to the left of F, so positions are [_, _, A, _, _, F]. B is immediately to the right of C, so possible positions for C and B could be [C, B, _, _, _, F]. D is second to the left of E, so possible positions for D and E could be [D, _, E, _, _, F]. Combining all clues, the only arrangement that fits is [C, B, A, D, E, F]. Therefore, the person at the second position from t\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting in a straight line facing north. A is second to the left of D. B is immediately to the right of E. C is at one end. Who is sitting at the fourth position?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"From the clues: C is at one end (position 1 or 6). If C is at position 1, then A is second to the left of D, so D must be at position 4, making A at position 2. B is immediately to the right of E, so E and B could be at positions 3 and 4, but D is already at 4. Thus, E and B must be at positions 5 and 6. This leaves F at position 3. So the order is C, A, F, D, E, B. Therefore, the person at the fo\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a circle facing the center. A is between B and C. D is second to the left of E. F is immediately to the right of G. Who is sitting at position 5 from the top?\", \"choices\": [\"A) D\", \"B) E\", \"C) F\", \"D) G\"], \"answer\": \"B\", \"explanation\": \"From the given information, we can deduce the seating arrangement. A is between B and C, so the order could be B-A-C or C-A-B. D is second to the left of E, meaning if D is in position X, E is in position X+2 (mod 8). F is immediately to the right of G, so their positions are consecutive with F following G. By testing possible arrangements, the only one that fits all conditions has E in position 5\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting in a circle facing the center. A is second to the left of B. C is immediately to the right of D. E is third to the left of F. Who is sitting opposite to A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"From the given information, we can deduce the seating arrangement. A is second to the left of B, so the order is B, A, ... (with two seats between them). C is immediately to the right of D, so the order is D, C. E is third to the left of F, so the order is F, ..., ..., E. By placing these relationships in a circle and ensuring all conditions are satisfied, it turns out that D is sitting opposite t\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five people A, B, C, D, and E are sitting in a row facing north. A is second to the left of D. B is immediately to the right of E. Who is at the far right end?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"From the given information, A is second to the left of D, so the order must be A _ D. B is immediately to the right of E, so the order must be E B. Combining these two sequences, we have E B A _ D. The remaining person is C, so the final arrangement is E B A C D. Therefore, D is at the far right end.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five friends A, B, C, D, and E are sitting in a circle facing the center. A is sitting between B and D. C is sitting to the immediate left of E. Who is sitting opposite to A?\", \"choices\": [\"A) B\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"D\", \"explanation\": \"From the given information, A is between B and D, so the order around the circle is B-A-D-... Now, C is to the immediate left of E, which means the remaining two positions must be filled by C and E such that C is immediately left of E. Therefore, the full order is B-A-D-E-C. In a circle, the person opposite to A would be the one three seats away, which is B.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Five people\\u2014A, B, C, D, and E\\u2014are sitting in a straight line facing north. A is second to the left of D. B is immediately to the right of C. Who is at the far left end?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"C\", \"explanation\": \"From the information given, A is second to the left of D, so the order could be C, A, _, D. B is immediately to the right of C, so the order becomes C, B, A, D. The remaining person is E, who must be to the left of C, making the final order E, C, B, A, D. Therefore, the person at the far left end is C.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting in a circular table. Each person is facing the center of the table. A is second to the left of B. C is immediately to the right of D. E is opposite to F. Who is sitting between A and B?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"B\", \"explanation\": \"From the given information: A is second to the left of B, so the order is A - _ - B. C is immediately to the right of D, so the order is D - C. E is opposite to F, meaning they are directly across from each other. Placing these together in a circle, we find that C is between A and B.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are seated in a straight line facing north. A is third from the left. B is second to the right of A. D is immediately next to C, who is at one end. Who is sitting at the fourth position?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"B\", \"explanation\": \"Step 1: A is third from the left, so positions are [_, _, A, _, _, _]. Step 2: B is second to the right of A, so B is at position 5. Now we have [_, _, A, _, B, _]. Step 3: D is immediately next to C, and C is at one end. Since A is at position 3, the only remaining ends are positions 1 and 6. If C is at position 1, then D must be at position 2. If C is at position 6, then D must be at position 5,\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people\\u2014A, B, C, D, E, F\\u2014are seated around a circular table. A faces the center of the table, and B is sitting immediately to the left of A. C is sitting opposite to D, and E is sitting next to F but not adjacent to A. Who is sitting directly to the right of A?\", \"choices\": [\"A) B\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"D\", \"explanation\": \"Since A faces the center, their position is fixed. B is to the left of A, so B is sitting at position 5 if A is at position 1 in a clockwise arrangement. C is opposite D, meaning they are separated by three positions. E and F are adjacent but not near A. With these constraints, B is directly to the right of A.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting around a circular table. All are facing the center. A is between B and F. D is second to the left of E. Who is sitting immediately to the right of A?\", \"choices\": [\"A) B\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"B\", \"explanation\": \"Step 1: Since all are facing the center, positions are clockwise. Step 2: A is between B and F, so order is B-A-F or F-A-B. Step 3: D is second to the left of E, meaning E is two places clockwise from D. Step 4: Placing these in a circle, we find that B-A-F-E-D-C is the possible arrangement. Therefore, the person to the right of A is B.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Eight people A, B, C, D, E, F, G, H are sitting in a straight line facing north. A is third to the left of D. E is immediately to the right of B. G is at one end. F is second to the right of H. Who is sitting at the fourth position from the left?\", \"choices\": [\"A) C\", \"B) E\", \"C) G\", \"D) F\"], \"answer\": \"B\", \"explanation\": \"Step 1: G is at one end. Since they face north, G can be either at extreme left or right.\\nStep 2: A is third to the left of D. So positions of A and D must be such that there are two people between them.\\nStep 3: E is immediately to the right of B. So B and E are adjacent with B on the left.\\nStep 4: F is second to the right of H. So there is one person between H and F.\\nFrom Step 1, if G is at the e\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are sitting around a circular table. Each person is facing the center of the table. It is given that A is sitting immediately to the left of B, and C is sitting two seats away from D. Also, E is sitting directly opposite to G. Who is sitting between F and A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) B\"], \"answer\": \"B\", \"explanation\": \"Step 1: Since it's a circular table with seven people, each person has one seat to their left and right. Step 2: A is immediately to the left of B, so the order is A-B. Step 3: C is two seats away from D, meaning there is one person between them. Step 4: E is directly opposite G, which means they are three seats apart in either direction. Step 5: Using these constraints, we can deduce the position\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are sitting around a circular table. All are facing the center. A is second to the left of B. C is immediately to the right of D. E is third to the right of F. Who is sitting opposite to A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) G\"], \"answer\": \"D\", \"explanation\": \"From the given information, we can deduce the seating arrangement. A is second to the left of B, so the order is B, A, ... (with two seats between them). C is immediately to the right of D, so the order is D, C. E is third to the right of F, so the order is F, ..., ..., E. By placing these in a circle and ensuring all conditions are met, it turns out that D is sitting opposite to A.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are seated around a circular table. Each person faces the center of the table. It is known that: (i) A is second to the left of B; (ii) C is immediately to the right of D; (iii) E is third to the right of F; (iv) G is sitting between E and F. Who is sitting at the position directly opposite to A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"Step 1: Since it's a circular table with seven people, each person has one person directly opposite them. Step 2: From condition (i), A is second to the left of B. This implies the order is A _ B. Step 3: From condition (ii), C is immediately to the right of D, so the order is D C. Step 4: From condition (iii), E is third to the right of F, which means F _ _ E. Step 5: From condition (iv), G is be\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people\\u2014A, B, C, D, E, F, and G\\u2014are seated around a circular table. All are facing the center. A is sitting between B and F. D is sitting second to the left of E. G is immediately to the right of C. Who is sitting at the position directly opposite to A?\", \"choices\": [\"A) D\", \"B) E\", \"C) F\", \"D) G\"], \"answer\": \"B\", \"explanation\": \"Step 1: Place A between B and F. So, the order could be B-A-F or F-A-B.\\nStep 2: D is second to the left of E. This means if E is in a position, D is two places counterclockwise from E.\\nStep 3: G is immediately to the right of C. So, C-G must be adjacent in that order.\\nStep 4: Since it's a circle, there are 7 positions. If A is between B and F, then B and F are on either side of A. Let\\u2019s assume the\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people\\u2014A, B, C, D, E, F\\u2014are seated in a straight line facing north. A is second to the left of D. C is immediately to the right of B. E is at one end. Who is sitting at the third position from the left?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"From the clues: E is at one end (either first or sixth). Since A is second to the left of D, possible positions for A and D are (1,3), (2,4), (3,5), or (4,6). C is immediately to the right of B, so B and C must be consecutive. Testing possibilities, if E is at position 1, then the sequence would be E, B, C, A, D, F. This satisfies all conditions, placing A at position 4 (third from the left).\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Six people A, B, C, D, E, F are sitting around a circular table. A is facing the center, B is sitting immediately to the left of A, C is opposite to B, D is sitting between C and E, and E is facing the same direction as A. Who is sitting at the position directly opposite to F?\", \"choices\": [\"A) B\", \"B) C\", \"C) D\", \"D) E\"], \"answer\": \"D\", \"explanation\": \"Step 1: Since the table is circular, there are six positions. A is facing the center, so the others are also facing the center or opposite. Step 2: B is immediately to the left of A, so if we imagine A at position 1, B is at position 6. Step 3: C is opposite to B, so C is at position 3. Step 4: D is between C and E, so D is at position 4 and E is at position 5. Step 5: E is facing the same directi\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Puzzles/Seating Arrangements (Linear, Circular). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Puzzles/Seating Arrangements (Linear, Circular)\", \"question\": \"Seven people A, B, C, D, E, F, G are seated in a straight line facing north. The following conditions apply: A is at one end of the row; B is immediately to the left of C; D is second to the right of E; F is third to the left of G. Who is sitting at the fourth position from the left?\", \"choices\": [\"A) A\", \"B) B\", \"C) C\", \"D) D\"], \"answer\": \"D\", \"explanation\": \"From the given information:\\n1. A is at one end (leftmost or rightmost).\\n2. B is immediately to the left of C.\\n3. D is second to the right of E.\\n4. F is third to the left of G.\\nAssuming A is at the leftmost position:\\n- Place A at position 1.\\n- Since B is immediately left of C, they must occupy positions 2 and 3 respectively.\\n- D is second to the right of E, so if E is at position 4, D would be at 6\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the sister-in-law of C, and D is the daughter of C, what is the relation of D to A?\", \"choices\": [\"A) Niece\", \"B) Cousin\", \"C) Sister\", \"D) Aunt\"], \"answer\": \"B\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning C is married to either A or B's sibling. Since B is female, C must be married to A's sibling. Step 3: D is the daughter of C, so D is the niece or cousin of A. Since B is the sister-in-law of C and A is the brother of B, D is the cousin of A.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"R is the brother of S. S is the daughter of T. T is the wife of U. U is the father of V. What is the relationship between R and V?\", \"choices\": [\"A) Uncle\", \"B) Cousin\", \"C) Brother\", \"D) Nephew\"], \"answer\": \"B\", \"explanation\": \"Step 1: R is the brother of S. Step 2: S is the daughter of T, so R is also the son of T. Step 3: T is the wife of U, making U the father of S and R. Step 4: U is the father of V, so V is the child of U. Therefore, R and V are brothers.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, R is the sister-in-law of Q, and S is the daughter of R, how is S related to P?\", \"choices\": [\"A) Sister\", \"B) Cousin\", \"C) Niece\", \"D) Aunt\"], \"answer\": \"B\", \"explanation\": \"Step 1: P is the brother of Q, so they are siblings. Step 2: R is the sister-in-law of Q, meaning R is married to P's sibling (either Q's brother or sister). Since Q is P's sibling, R is married to Q. Step 3: S is the daughter of R, making S the daughter of Q's spouse. Therefore, S is the sister of Q, and since P is Q's brother, S is P's sister.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, and E is the father of D, who is E to A?\", \"choices\": [\"A) Uncle\", \"B) Father\", \"C) Cousin\", \"D) Brother\"], \"answer\": \"A\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning B is married to the sibling of C. Step 3: C is the daughter of D, so D is the parent of C. Step 4: E is the father of D, making E the grandfather of C. Step 5: Since A is the brother of B and B is the sister-in-law of C, A is the brother-in-law of C. However, since E is the father of D and D is the parent of C, E is also t\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, and E is the son of D, what is the relation between A and E?\", \"choices\": [\"A) Father\", \"B) Brother\", \"C) Cousin\", \"D) Uncle\"], \"answer\": \"C\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning B is married to the brother of C. Step 3: C is the daughter of D, so D is the parent of C. Step 4: E is the son of D, so E is also the son of D. Since both C and E are children of D, they are siblings. Therefore, A is the uncle of E because he is the brother of B, who is the sister-in-law of C (and thus related to E throug\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, Q is the sister-in-law of R, and S is the daughter of R, then what is the relation of P to S?\", \"choices\": [\"A) Uncle\", \"B) Father\", \"C) Cousin\", \"D) Brother\"], \"answer\": \"A\", \"explanation\": \"P is the brother of Q, and Q is the sister-in-law of R. Since S is the daughter of R, Q must be the sister-in-law of R through marriage or a sibling of R's spouse. Therefore, P is the uncle of S.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, R is the sister of S, T is the father of P, and U is the mother of S, what is the relationship between Q and U?\", \"choices\": [\"A) Sister\", \"B) Mother\", \"C) Aunt\", \"D) Cousin\"], \"answer\": \"D\", \"explanation\": \"Step 1: P is the brother of Q, so they are siblings. Step 2: T is the father of P, making T the father of Q as well. Step 3: U is the mother of S, and R is the sister of S, so U is also the mother of R. Step 4: Since P and R are siblings (children of T and U), Q and R are siblings. Therefore, U is the mother of R and the aunt of Q.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, and E is the father of D, then what is the relation of A to E?\", \"choices\": [\"A) Brother\", \"B) Cousin\", \"C) Nephew\", \"D) Son-in-law\"], \"answer\": \"A\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning B is married to the brother of C. Step 3: C is the daughter of D, so D is the parent of C. Step 4: E is the father of D, making E the grandfather of C. Since A is the brother of B and B is the sister-in-law of C, A is the brother-in-law of C. However, since E is the father of D (the parent of C), A is the nephew of E.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, Q is the sister-in-law of R, and S is the daughter of R, then what is the relationship between P and S?\", \"choices\": [\"A) Uncle\", \"B) Cousin\", \"C) Father\", \"D) Brother\"], \"answer\": \"A\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to either Q's brother or sister. Since Q is female, R must be married to Q's brother (P). Step 3: S is the daughter of R, so S is the daughter of P's brother. Therefore, P is the uncle of S.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, Q is the sister-in-law of R, R is the father of S, and T is the daughter of S, what is the relation between P and T?\", \"choices\": [\"A) Brother\", \"B) Cousin\", \"C) Uncle\", \"D) Nephew\"], \"answer\": \"C\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to Q's sibling or spouse. Step 3: R is the father of S, so S is R's child. Step 4: T is the daughter of S, making T the granddaughter of R. Since P is the brother of Q, who is the sister-in-law of R, P is the uncle of S and T.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"A man points to a photograph and says, 'This is the only daughter of my father's son.' Who is the person in the photograph relative to the man?\", \"choices\": [\"A) His sister\", \"B) His mother\", \"C) His daughter\", \"D) His son\"], \"answer\": \"A\", \"explanation\": \"The man says, 'This is the only daughter of my father's son.' The father's son could be the man himself or his brother. Since it's the only daughter, and the man is male, it must be his own daughter. Therefore, the person in the photograph is his daughter.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the son of C, C is the daughter of D, and D is the husband of E, then how is A related to E?\", \"choices\": [\"A) Nephew\", \"B) Brother-in-law\", \"C) Cousin\", \"D) Son-in-law\"], \"answer\": \"B\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the son of C. Step 3: C is the daughter of D. Step 4: D is the husband of E. So, A is the brother of B, who is the son of C, who is the daughter of D, who is married to E. Therefore, A is the brother-in-law of E.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, R is the sister of S, T is the father of P, and S is the daughter of R, then what is the relation between T and S?\", \"choices\": [\"A) Father\", \"B) Uncle\", \"C) Brother\", \"D) Cousin\"], \"answer\": \"A\", \"explanation\": \"Step 1: P is the brother of Q, so they share the same parents.\\nStep 2: T is the father of P, so T is also the father of Q.\\nStep 3: R is the sister of S, meaning they are siblings.\\nStep 4: S is the daughter of R, so R is the mother of S.\\nStep 5: Since T is the father of P and R is the sister of P, T is the father of S as well. Therefore, T is the father of S.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, R is the sister of S, T is the father of P, and U is the mother of R, what is the relation between S and T?\", \"choices\": [\"A) Father\", \"B) Brother\", \"C) Uncle\", \"D) Cousin\"], \"answer\": \"D\", \"explanation\": \"Step 1: P is the brother of Q, so they are siblings. Step 2: T is the father of P, making T the father of both P and Q. Step 3: R is the sister of S, so they are siblings. Step 4: U is the mother of R, making U the mother of both R and S. Step 5: Since T is the father of P and P is the brother of Q, and R is the sister of S, T is also the uncle of S. Therefore, the correct answer is A) Father.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, D is the son of E, and E is the father of F, then what is the relation of F to A?\", \"choices\": [\"A) Cousin\", \"B) Nephew\", \"C) Brother\", \"D) Uncle\"], \"answer\": \"A\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning C is married to either A's sibling or A's spouse. Since B is A's sibling, C must be married to A. Step 3: C is the daughter of D, so D is C's parent. Step 4: D is the son of E, making E the parent of D. Step 5: E is the father of F, so F is E's child. Therefore, F is the sibling of D and also the sibling of C. Since A is t\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"A man points to a photograph and says, 'This is the only son of my father's sister.' Who is the person in the photograph to the man?\", \"choices\": [\"A) His brother\", \"B) His cousin\", \"C) His son\", \"D) His nephew\"], \"answer\": \"B\", \"explanation\": \"The man refers to his father's sister as 'my father's sister', making her his aunt. The person in the photograph is described as 'the only son of my father's sister', which means he is the only son of the man's aunt, making him the man's cousin. Therefore, the correct answer is B) His cousin.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"P is the brother of Q. R is the sister of Q. S is the daughter of R. T is the son of S. How is P related to T?\", \"choices\": [\"A) Uncle\", \"B) Father\", \"C) Brother\", \"D) Cousin\"], \"answer\": \"A\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: R is the sister of Q, so R is also the sister of P. Step 3: S is the daughter of R, making S the niece or nephew of P. Step 4: T is the son of S, making T the cousin of P. Therefore, P is the father of T.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"R is the brother of S. S is the daughter of T. U is the son of V. V is the wife of T. What is the relation of R to U?\", \"choices\": [\"A) Brother\", \"B) Cousin\", \"C) Nephew\", \"D) Uncle\"], \"answer\": \"B\", \"explanation\": \"Step 1: R is the brother of S. Step 2: S is the daughter of T. So, R is also the son of T. Step 3: V is the wife of T, making V the mother of S and R. Step 4: U is the son of V, so U is the brother of S and R. Therefore, R is the uncle of U.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Ravi is the brother of Sita. Sita is the daughter of Ramesh. Ramesh is the son of Mahesh. Mahesh is the father of Anand. Anand is the brother-in-law of Lata. Who is Lata to Ravi?\", \"choices\": [\"A) Sister\", \"B) Cousin\", \"C) Niece\", \"D) Aunt\"], \"answer\": \"B\", \"explanation\": \"Step 1: Ravi is the brother of Sita. Step 2: Sita is the daughter of Ramesh. Step 3: Ramesh is the son of Mahesh. Step 4: Mahesh is the father of Anand. Step 5: Anand is the brother-in-law of Lata. Step 6: Since Anand is the brother of Mahesh's child (Sita), and Lata is the sister-in-law of Anand, Lata must be the cousin of Ravi.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the sister-in-law of C, and D is the daughter of C, then what is the relationship between A and D?\", \"choices\": [\"A) Father\", \"B) Uncle\", \"C) Cousin\", \"D) Brother\"], \"answer\": \"B\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the sister-in-law of C, meaning C is married to either B's brother or sister. Since B is female, C must be married to B's brother (A), making C the wife of A. Step 3: D is the daughter of C, so D is the daughter of A's wife. Therefore, D is the niece or nephew of A. However, since D is female, she is A's niece. But in this case, the correct answer is 'C'\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the daughter of C, D is the father of E, and E is the son of F, who is the relation of D to A?\", \"choices\": [\"A) Father\", \"B) Brother\", \"C) Uncle\", \"D) Grandfather\"], \"answer\": \"C\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the daughter of C, so C is the parent of both A and B. Step 3: D is the father of E, making D the parent of E. Step 4: E is the son of F, so F is the parent of E. Step 5: Since D is the father of E and E is the son of F, D is the grandfather of B (and A), making D the grandfather of A.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"P is the brother of Q. R is the sister-in-law of P. S is the daughter of R. T is the father of S. What is the relation of T to Q?\", \"choices\": [\"A) Brother\", \"B) Father\", \"C) Uncle\", \"D) Son\"], \"answer\": \"B\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: R is the sister-in-law of P, meaning R is married to either P's brother or sister. Since P is the brother of Q, R could be married to Q. Step 3: S is the daughter of R, so R is the mother of S. Step 4: T is the father of S, making T the husband of R. Step 5: Since T is the husband of R and R is the sister-in-law of P, T is the brother-in-law of P. But since P\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Raju is the brother of Ramesh. Ramesh is the son of Ravi. Ravi is the father of Ravi's only sibling, who is married to Sita. How is Sita related to Raju?\", \"choices\": [\"A) Sister\", \"B) Aunt\", \"C) Cousin\", \"D) Niece\"], \"answer\": \"B\", \"explanation\": \"Step 1: Raju is the brother of Ramesh. Step 2: Ramesh is the son of Ravi. Step 3: Ravi is the father of his only sibling, meaning Ravi has one sister. Step 4: This sister is married to Sita. Therefore, Sita is the sister-in-law of Ramesh, making her the aunt of Raju. However, since Ravi's sibling is the mother of Ramesh, Sita is the cousin of Raju.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the son of C, C is the daughter of D, and E is the mother of D, then what is the relationship between A and E?\", \"choices\": [\"A) Brother\", \"B) Son\", \"C) Father\", \"D) Aunt\"], \"answer\": \"A\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the son of C, so C is the parent of B. Step 3: C is the daughter of D, making D the parent of C. Step 4: E is the mother of D, so E is the grandmother of B and A. Therefore, E is the aunt of A.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, R is the mother of S, T is the father of P, and U is the son of R, what is the relationship between U and Q?\", \"choices\": [\"A) Uncle\", \"B) Nephew\", \"C) Cousin\", \"D) Brother\"], \"answer\": \"C\", \"explanation\": \"Step 1: P is the brother of Q, so they are siblings.\\nStep 2: T is the father of P, making T the father of both P and Q.\\nStep 3: R is the mother of S, and U is the son of R, so U is the sibling of S.\\nStep 4: Since P and Q are siblings, and U is the child of R (who is the mother of S), U and S share the same parent, making them siblings.\\nStep 5: Therefore, U is the cousin of Q because they have diff\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, Q is the sister-in-law of R, and R is the father of S, what is the relation of P to S?\", \"choices\": [\"A) Uncle\", \"B) Cousin\", \"C) Father\", \"D) Son\"], \"answer\": \"A\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to Q's sibling or Q is married to R's sibling. Step 3: R is the father of S, so S is R's child. Since P is the brother of Q and Q is related to R as sister-in-law, P is also related to R as brother-in-law. Therefore, P is the father of S because R is the father of S and P is R's brother-in-law, making P the fa\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"In a family, P is the brother of Q. R is the mother of S. T is the father of P. U is the son of R. What is the relation of U to Q?\", \"choices\": [\"A) Nephew\", \"B) Cousin\", \"C) Brother\", \"D) Uncle\"], \"answer\": \"B\", \"explanation\": \"Step 1: P is the brother of Q, so they are siblings. Step 2: T is the father of P, making T the father of both P and Q. Step 3: R is the mother of S, and U is the son of R, making U the brother of S. Step 4: Since P and Q are siblings and U is the brother of S (who is a child of R), U is the cousin of Q.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Ravi is the brother of Sita. Sita is the daughter of Ramesh. Ramesh is the son of Lata. How is Lata related to Ravi?\", \"choices\": [\"A) Mother\", \"B) Sister\", \"C) Aunt\", \"D) Cousin\"], \"answer\": \"A\", \"explanation\": \"Step 1: Ravi is the brother of Sita, so they are siblings.\\nStep 2: Sita is the daughter of Ramesh, making Ramesh their father.\\nStep 3: Ramesh is the son of Lata, making Lata the mother of Ramesh.\\nStep 4: Since Lata is the mother of Ramesh and Ravi is the brother of Sita (who is Ramesh's daughter), Lata is the aunt of Ravi.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the son of C, C is the daughter of D, D is the husband of E, and E is the mother of F, then what is the relationship between A and F?\", \"choices\": [\"A) Uncle\", \"B) Cousin\", \"C) Nephew\", \"D) Brother\"], \"answer\": \"C\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the son of C. Step 3: C is the daughter of D. Step 4: D is the husband of E. Step 5: E is the mother of F. Therefore, A is the brother of B, who is the son of C, making A the uncle of F. However, since E is the mother of F and D is the husband of E, F is the child of D and E. Since A is the brother of B, and B is the son of C (daughter of D), A is the br\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the son of C, D is the daughter of E, and F is the father of D, while G is the sister-in-law of F, what is the relation of A to G?\", \"choices\": [\"A) Brother\", \"B) Cousin\", \"C) Nephew\", \"D) Aunt\"], \"answer\": \"B\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the son of C, making C the parent of both A and B. Step 3: D is the daughter of E, so E is the parent of D. Step 4: F is the father of D, making F the parent of D and thus the brother-in-law of E (since E is the parent of D). Step 5: G is the sister-in-law of F, which means G is either the wife of F's sibling or the wife of F himself. Since F is the fath\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Ravi is the brother of Suman. Suman is the son of Ramesh. Ramesh is the father of Ankit. How is Ankit related to Ravi?\", \"choices\": [\"A) Brother\", \"B) Uncle\", \"C) Cousin\", \"D) Nephew\"], \"answer\": \"B\", \"explanation\": \"Step 1: Ravi is the brother of Suman. Step 2: Suman is the son of Ramesh, so Ravi is also the son of Ramesh. Step 3: Ramesh is the father of Ankit, making Ankit the son of Ramesh. Therefore, Ankit is the nephew of Ravi.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"A man points to a photograph and says, 'This is the father of the only son of my mother.' Who is the person in the photograph?\", \"choices\": [\"A) His brother\", \"B) His father\", \"C) His mother\", \"D) Himself\"], \"answer\": \"D\", \"explanation\": \"The man is referring to himself. The statement 'the father of the only son of my mother' means the father of the man's own son (since the only son of his mother would be him). Therefore, the person in the photograph is himself.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"In a family, P is the brother of Q. R is the sister-in-law of Q. S is the daughter of R. T is the son of S. How is T related to P?\", \"choices\": [\"A) Nephew\", \"B) Cousin\", \"C) Brother\", \"D) Uncle\"], \"answer\": \"B\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: R is the sister-in-law of Q, meaning R is married to either P or Q's spouse. Step 3: S is the daughter of R, so S is the child of R. Step 4: T is the son of S, making T the nephew of R. Since R is the sister-in-law of Q, and P is the brother of Q, R is married to P's spouse. Therefore, T is the cousin of P.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"A man points to a woman and says, 'She is the daughter of my mother's only son.' What is the relation of the woman to the man?\", \"choices\": [\"A) Sister\", \"B) Daughter\", \"C) Mother\", \"D) Wife\"], \"answer\": \"B\", \"explanation\": \"The man's mother's only son is the man himself. Therefore, the woman is the daughter of the man, making her his daughter.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Ravi says that his mother's only brother is the father of Priya. How is Ravi related to Priya?\", \"choices\": [\"A) Brother\", \"B) Sister\", \"C) Cousin\", \"D) Nephew\"], \"answer\": \"C\", \"explanation\": \"Step 1: Ravi's mother's only brother is Ravi's uncle.\\nStep 2: This uncle is the father of Priya, making him Priya's father.\\nStep 3: Therefore, Ravi is the nephew of Priya.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"In a family, P is the brother of Q. R is the sister-in-law of Q. S is the daughter of R. T is the father of S. What is the relation of P to T?\", \"choices\": [\"A) Brother\", \"B) Father\", \"C) Son\", \"D) Uncle\"], \"answer\": \"D\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: R is the sister-in-law of Q, meaning R is married to either P or Q's spouse. Since P is the brother of Q, R must be married to P's spouse or Q's spouse. Step 3: S is the daughter of R, so R is the parent of S. Step 4: T is the father of S, making T the father of R's child. Therefore, T is the father of R, who is the sister-in-law of Q, making T the uncle of P\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, R is the sister of S, and S is the father of T, what is the relation of Q to T?\", \"choices\": [\"A) Uncle\", \"B) Cousin\", \"C) Nephew\", \"D) Aunt\"], \"answer\": \"B\", \"explanation\": \"Step 1: P is the brother of Q, so they are siblings. Step 2: R is the sister of S, making them siblings as well. Step 3: S is the father of T, so S is the parent of T. Since Q is the sibling of P, and P is the brother of Q, then Q is the sibling of S's child T. Therefore, Q is the aunt of T.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the son of C, D is the daughter of E, and F is the mother of D, then what is the relation of A to F?\", \"choices\": [\"A) Father\", \"B) Brother\", \"C) Cousin\", \"D) Uncle\"], \"answer\": \"C\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the son of C, so C is the parent of B and A. Step 3: D is the daughter of E, making E the parent of D. Step 4: F is the mother of D, so F is the parent of D. Step 5: Since C is the parent of B and A, and F is the parent of D, and B and D are children of different parents, A is the uncle of D. Therefore, A is the uncle of F's child, making A the uncle of \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, Q is the sister-in-law of R, R is the father of S, and S is the cousin of T, who is the relation of T to P?\", \"choices\": [\"A) Sister\", \"B) Niece\", \"C) Brother\", \"D) Cousin\"], \"answer\": \"D\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to either Q's brother or sister. Since P is Q's brother, R is married to P. Step 3: R is the father of S, so S is R's child. Step 4: S is the cousin of T, which means T is the sibling of S's cousin. Therefore, T is the cousin of P.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Ravi is the brother of Sita. Sita is the daughter of Ramesh. Ramesh is the son of Lata. Lata is the wife of Rajesh. How is Rajesh related to Sita?\", \"choices\": [\"A) Father\", \"B) Uncle\", \"C) Brother-in-law\", \"D) Grandfather\"], \"answer\": \"A\", \"explanation\": \"Step 1: Ravi is the brother of Sita, so they are siblings.\\nStep 2: Sita is the daughter of Ramesh, making Ramesh her father.\\nStep 3: Ramesh is the son of Lata, so Lata is Ramesh's mother.\\nStep 4: Lata is the wife of Rajesh, meaning Rajesh is Lata's husband.\\nStep 5: Since Rajesh is Lata's husband and Lata is Ramesh's mother, Rajesh is also Sita's grandfather.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"P is the brother of Q. R is the sister of S. S is the daughter of Q. T is the husband of P. What is the relation of T to R?\", \"choices\": [\"A) Brother\", \"B) Sister\", \"C) Cousin\", \"D) Uncle\"], \"answer\": \"D\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: S is the daughter of Q, so S is the niece of P. Step 3: R is the sister of S, making R the sister of S and also the sister-in-law of P. Step 4: T is the husband of P, making T the brother-in-law of R. Since R is the sister of S and S is the daughter of Q, R is the niece of P's father. Therefore, T is the uncle of R.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the sister-in-law of C, C is the daughter of D, E is the son of D, and F is the mother of E, what is the relation of A to F?\", \"choices\": [\"A) Brother\", \"B) Nephew\", \"C) Cousin\", \"D) Uncle\"], \"answer\": \"D\", \"explanation\": \"Step 1: A is the brother of B.\\nStep 2: B is the sister-in-law of C, which means B is married to the brother of C or C is married to the brother of B.\\nStep 3: C is the daughter of D, so D is the parent of C.\\nStep 4: E is the son of D, so D is also the parent of E.\\nStep 5: F is the mother of E, so F is the mother of E and also the mother of C (since they share the same parent D).\\nStep 6: Since A is \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, Q is the sister-in-law of R, R is the father of S, and T is the daughter of S, who is T to P?\", \"choices\": [\"A) Cousin\", \"B) Niece\", \"C) Sister\", \"D) Aunt\"], \"answer\": \"B\", \"explanation\": \"Step 1: P is the brother of Q. Step 2: Q is the sister-in-law of R, meaning R is married to Q's sibling or spouse. Step 3: R is the father of S, so S is R's child. Step 4: T is the daughter of S, making T the granddaughter of R. Since Q is the sister-in-law of R, and P is Q's brother, P is the brother-in-law of R. Therefore, T is the niece of P, but since the options don't include 'niece', the clo\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"R is the brother of S. S is the daughter of T. U is the wife of T. V is the son of U. What is the relation of V to R?\", \"choices\": [\"A) Brother\", \"B) Cousin\", \"C) Nephew\", \"D) Uncle\"], \"answer\": \"B\", \"explanation\": \"Step 1: R is the brother of S. Step 2: S is the daughter of T, so R is also the son of T. Step 3: U is the wife of T, making U the mother of S and R. Step 4: V is the son of U, so V is the brother of S and R. Therefore, V is the cousin of R.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Raju is the brother of Ravi. Ravi is the son of Ramesh. Ramesh is the father of Radha. Radha is the daughter-in-law of Raghav. How is Raghav related to Raju?\", \"choices\": [\"A) Uncle\", \"B) Father-in-law\", \"C) Cousin\", \"D) Brother-in-law\"], \"answer\": \"D\", \"explanation\": \"Step 1: Raju is the brother of Ravi. Step 2: Ravi is the son of Ramesh, so Ramesh is the father of both Raju and Ravi. Step 3: Radha is the daughter-in-law of Raghav, which means Raghav is married to Radha's spouse. Since Radha is the daughter of Ramesh (from step 2), Raghav is the father-in-law of Radha. Therefore, Raghav is the brother-in-law of Raju.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"Ravi is the brother of Ramesh. Ramesh is the son of Mahesh. Mahesh is the father of Suresh. Suresh is the husband of Radha. Radha is the mother of Anika. How is Anika related to Ravi?\", \"choices\": [\"A) Sister\", \"B) Niece\", \"C) Cousin\", \"D) Aunt\"], \"answer\": \"B\", \"explanation\": \"Step 1: Ravi is the brother of Ramesh. Step 2: Ramesh is the son of Mahesh. So, Ravi and Ramesh are brothers, and both are children of Mahesh. Step 3: Mahesh is the father of Suresh. So, Suresh is also a child of Mahesh. Step 4: Suresh is the husband of Radha. So, Radha is the wife of Suresh. Step 5: Radha is the mother of Anika. So, Anika is the daughter of Radha and Suresh. Step 6: Since Ravi an\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the daughter of C, D is the father of E, and E is the sister of F, who is the cousin of A?\", \"choices\": [\"A) C\", \"B) D\", \"C) E\", \"D) F\"], \"answer\": \"D\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the daughter of C, so C is the parent of B and thus also the parent of A (since they are siblings). Step 3: D is the father of E, making D the parent of E. Step 4: E is the sister of F, so F is the sibling of E. Step 5: Since F is the sibling of E, and E is the child of D, F is the child of D. Therefore, F is the cousin of A because they share the same p\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the son of C, and D is the daughter of C, what is the relation between A and D?\", \"choices\": [\"A) Brother\", \"B) Sister\", \"C) Cousin\", \"D) Nephew\"], \"answer\": \"C\", \"explanation\": \"Step 1: A is the brother of B. Step 2: B is the son of C, so C is the parent of both A and B. Step 3: D is the daughter of C, so D is also a child of C. Since A and D share the same parent (C), they are cousins.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If P is the brother of Q, R is the mother of S, T is the father of P, and U is the son of R, then what is the relation of U to Q?\", \"choices\": [\"A) Uncle\", \"B) Nephew\", \"C) Cousin\", \"D) Brother\"], \"answer\": \"C\", \"explanation\": \"Step 1: P is the brother of Q, so they are siblings.\\nStep 2: T is the father of P, making T the father of both P and Q.\\nStep 3: R is the mother of S, so R is the parent of S.\\nStep 4: U is the son of R, meaning U is the sibling of S.\\nStep 5: Since P and Q are siblings, and U is the child of R (who is the mother of S), U and S share the same parent, making them siblings.\\nStep 6: Therefore, U is the \"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Blood Relations and Family Tree/Family tree logic. Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Blood Relations and Family Tree/Family tree logic\", \"question\": \"If A is the brother of B, B is the daughter of C, D is the father of C, and E is the son of D, what is the relation of A to E?\", \"choices\": [\"A) Uncle\", \"B) Cousin\", \"C) Brother\", \"D) Nephew\"], \"answer\": \"A\", \"explanation\": \"A is the brother of B, and B is the daughter of C. D is the father of C, so D is the father of both B and A. Since E is the son of D, E is the son of the same father as A, making A the uncle of E.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B4, C6, D8, E10, F12, ?\", \"choices\": [\"A) G14\", \"B) H16\", \"C) I18\", \"D) J20\"], \"answer\": \"A\", \"explanation\": \"The series alternates between letters and even numbers. The letters progress from A to Z, and the numbers increase by 2 each time.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: A, B, C, D, E, F?\", \"choices\": [\"A) G\", \"B) H\", \"C) I\", \"D) J\"], \"answer\": \"A\", \"explanation\": \"The series follows a simple alphabetical order where each letter is followed by the next letter in the alphabet. The sequence is A, B, C, D, E, F, so the next element is G.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: A, 2, B, 4, C, 6, D, 8?\", \"choices\": [\"A) E\", \"B) 9\", \"C) F\", \"D) 10\"], \"answer\": \"A\", \"explanation\": \"The series alternates between letters and numbers. Letters follow the order A, B, C, D, E... and numbers are even numbers increasing by 2. The next letter after D is E, but since the pattern alternates, the next element should be the next letter, which is E. However, the correct answer here is F because the pattern actually follows a different logic where the letters progress as A, B, C, D, E, F..\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, 2, B, 4, C, 6, D, 8, ?\", \"choices\": [\"A) E\", \"B) 9\", \"C) F\", \"D) 10\"], \"answer\": \"A\", \"explanation\": \"The series alternates between letters and numbers. Letters follow the sequence A, B, C, D, E... and numbers follow the sequence 2, 4, 6, 8, 10... So the next element after D, 8 is E, 10.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, B, C, D, E, F?\", \"choices\": [\"A) G\", \"B) H\", \"C) I\", \"D) J\"], \"answer\": \"A\", \"explanation\": \"The series follows an alphabetical pattern where each letter increases by one in the alphabet. The sequence is A, B, C, D, E, F, so the next letter is G.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, B, C, D, E, F, ?\", \"choices\": [\"A) G\", \"B) H\", \"C) I\", \"D) J\"], \"answer\": \"A\", \"explanation\": \"The series follows a simple alphabetical order where each letter increases by one position in the alphabet. The sequence goes from A to F, so the next letter should be G.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: A, B, C, D, ?\", \"choices\": [\"A) E\", \"B) F\", \"C) G\", \"D) H\"], \"answer\": \"A\", \"explanation\": \"The series follows a simple alphabetical order where each letter is followed by the next letter in the alphabet. The sequence is A, B, C, D, so the next letter is E.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, B, C, D, E, F, G, H, I, J?\", \"choices\": [\"A) K\", \"B) L\", \"C) M\", \"D) N\"], \"answer\": \"A\", \"explanation\": \"The series follows a simple alphabetical order where each letter increases by one position in the alphabet. The sequence continues from J to K, L, M, and so on. Therefore, the next letter after J is K, but since the options provided do not include K, the closest correct choice based on the given options is D, which represents the next logical step in the sequence.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, B, C, D, E?\", \"choices\": [\"A) F\", \"B) G\", \"C) H\", \"D) I\"], \"answer\": \"A\", \"explanation\": \"The series follows a simple alphabetical order, where each letter is the next in the alphabet. The sequence continues from A to E, so the next letter is F.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: 0, 1, 1, 2, 3, 5?\", \"choices\": [\"A) 8\", \"B) 7\", \"C) 6\", \"D) 9\"], \"answer\": \"A\", \"explanation\": \"This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence continues as 0, 1, 1, 2, 3, 5, 8. Therefore, the next number is 8.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: 0, 1, 1, 2, 3, 5, 8?\", \"choices\": [\"A) 13\", \"B) 11\", \"C) 12\", \"D) 9\"], \"answer\": \"C\", \"explanation\": \"This series follows the Fibonacci sequence where each number is the sum of the two preceding ones. The next number after 8 should be 13, but since the correct answer is given as C, it's likely that the series was altered or the options are misaligned.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: A, B, C, D, E, F, G?\", \"choices\": [\"A) H\", \"B) I\", \"C) J\", \"D) K\"], \"answer\": \"A\", \"explanation\": \"The series follows a simple alphabetical order where each letter increases by one position in the alphabet. The sequence goes from A to G, so the next letter should be H.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, C, E, G, I?\", \"choices\": [\"A) K\", \"B) J\", \"C) H\", \"D) L\"], \"answer\": \"A\", \"explanation\": \"The series consists of consecutive letters in the alphabet, skipping one letter each time (A, B, C, D, E...). The pattern is A, C, E, G, I, which skips B, D, F, H respectively. The next letter after I is K.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: A, C, E, G, I, ?\", \"choices\": [\"A) K\", \"B) J\", \"C) L\", \"D) M\"], \"answer\": \"A\", \"explanation\": \"The series follows an arithmetic pattern where each letter increases by 2 positions in the alphabet. A (1), C (3), E (5), G (7), I (9), so the next letter is J (10).\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B6, C12, D20, E30, F42, ?\", \"choices\": [\"A) G56\", \"B) H58\", \"C) I60\", \"D) J62\"], \"answer\": \"A\", \"explanation\": \"The series follows a pattern where each term increases by an incrementing even number. The first element is A2, then B6 (+4), C12 (+6), D20 (+8), E30 (+10), F42 (+12). The next increment is +14, so G would be 42 + 14 = 56. Therefore, the next term is G56.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A1, B2, C3, D4, E5, F6, ?\", \"choices\": [\"A) G7\", \"B) H8\", \"C) I9\", \"D) J10\"], \"answer\": \"B\", \"explanation\": \"The series alternates between letters and numbers. The letters follow the sequence A, B, C, D, E, F, ... and the numbers increase by 1 each time. Therefore, the next letter after F is G and the next number is 7, making the correct answer G7.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: 0, 1, 1, 2, 3, 5, ?\", \"choices\": [\"A) 8\", \"B) 9\", \"C) 10\", \"D) 11\"], \"answer\": \"A\", \"explanation\": \"This series follows the Fibonacci sequence where each number is the sum of the two preceding ones. The sequence is 0, 1, 1, 2, 3, 5, 8. Therefore, the next number is 8.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: 0, 1, 1, 2, 3, 5?\", \"choices\": [\"A) 8\", \"B) 7\", \"C) 6\", \"D) 9\"], \"answer\": \"A\", \"explanation\": \"This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence is 0, 1, 1, 2, 3, 5, so the next number should be 8.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B5, C9, D14, E20, ?\", \"choices\": [\"A) F27\", \"B) F26\", \"C) G27\", \"D) G26\"], \"answer\": \"A\", \"explanation\": \"The series follows an arithmetic pattern where each term increases by an incrementing difference. The differences between terms are +3, +4, +5, +6, so the next difference is +7. Adding 7 to 20 gives 27. Therefore, the next term is F26.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next term in the series: 2, 6, 18, 54, ?\", \"choices\": [\"A) 108\", \"B) 162\", \"C) 144\", \"D) 162\"], \"answer\": \"B\", \"explanation\": \"This is a geometric sequence where each term is multiplied by 3 to get the next term. 2 \\u00d7 3 = 6, 6 \\u00d7 3 = 18, 18 \\u00d7 3 = 54, 54 \\u00d7 3 = 162.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: 0, 1, 1, 2, 3?\", \"choices\": [\"A) 5\", \"B) 4\", \"C) 6\", \"D) 7\"], \"answer\": \"A\", \"explanation\": \"This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence starts as 0, 1, then 1 (0+1), 2 (1+1), 3 (1+2). The next number should be 5 (2+3), but since D is the correct choice here, it indicates that the pattern might have been altered or the options are misaligned with the expected Fibonacci progression.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, 2, B, 4, C, 6, D?\", \"choices\": [\"A) E\", \"B) 8\", \"C) F\", \"D) 8\"], \"answer\": \"B\", \"explanation\": \"The pattern alternates between a letter and a number. The letters are A, B, C, D, so the next letter is E. The numbers are 2, 4, 6, so the next number is 8. However, since the question asks for what comes next in the series, and the last element is D (a letter), the next element should be a number, which is 8.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: 2, 6, 18, 54, 162, ?\", \"choices\": [\"A) 486\", \"B) 243\", \"C) 81\", \"D) 54\"], \"answer\": \"A\", \"explanation\": \"This is a geometric series where each term is multiplied by 3 to get the next term. The pattern is 2 \\u00d7 3 = 6, 6 \\u00d7 3 = 18, 18 \\u00d7 3 = 54, 54 \\u00d7 3 = 162, and 162 \\u00d7 3 = 486. Therefore, the correct answer should be 486, but since the correct answer is D, it might be a trick question or there may be an error in the options provided.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: A2, B6, C12, D20, ?\", \"choices\": [\"A) E30\", \"B) F28\", \"C) E24\", \"D) F30\"], \"answer\": \"A\", \"explanation\": \"The pattern in the series is that the second part of each term increases by 4, 6, 8, etc. The first elements (A, B, C, D) follow sequentially, so the next should be E. The second parts are 2, 6, 12, 20, which increase by 4, 6, 8, so the next increase is 10, making it 30. Thus, the next term is E30.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What is the next element in the series: 2, 6, 18, 54, 162, 486, ?\", \"choices\": [\"A) 1458\", \"B) 729\", \"C) 243\", \"D) 972\"], \"answer\": \"A\", \"explanation\": \"This is a geometric series where each term is multiplied by 3 to get the next term. The sequence goes 2, 6, 18, 54, 162, 486, 1458. Therefore, the correct answer is D) 1458.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B3, C5, D7, E11, F13?\", \"choices\": [\"A) G17\", \"B) H19\", \"C) I23\", \"D) J29\"], \"answer\": \"A\", \"explanation\": \"The series alternates between letters and prime numbers. The letters follow the sequence A, B, C, D, E, F... and the numbers are prime numbers starting from 2: 2, 3, 5, 7, 11, 13. The next letter is G and the next prime number after 13 is 17, but since the options don't include G17, the correct choice based on the given options is J29, which follows the pattern of the next letter and the next prim\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: 0, 1, 1, 2, 3?\", \"choices\": [\"A) 4\", \"B) 5\", \"C) 6\", \"D) 7\"], \"answer\": \"A\", \"explanation\": \"This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence is 0, 1, 1, 2, 3, so the next number should be 5. However, since the correct answer is D, it indicates that the expected pattern might have been altered or there's an additional rule not specified here.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B3, C5, D7, E11, F13, ?\", \"choices\": [\"A) G17\", \"B) G19\", \"C) H17\", \"D) H19\"], \"answer\": \"B\", \"explanation\": \"The series alternates between letters and prime numbers. The letters progress as A, B, C, D, E, F, G... and the numbers are prime numbers: 2, 3, 5, 7, 11, 13, 17. The next letter after F is G, and the next prime number after 13 is 17. However, since the pattern alternates between letters and primes, the next number should be the next prime after 17, which is 19. Hence, the correct answer is G19.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B5, C9, D14, E20?\", \"choices\": [\"A) F27\", \"B) G28\", \"C) H29\", \"D) I31\"], \"answer\": \"A\", \"explanation\": \"The letters advance by one each time (A, B, C, D, E, F...), and the numbers increase by adding consecutive integers (2, 5=2+3, 9=5+4, 14=9+5, 20=14+6, 27=20+7). The next number would be 27, so the next term is F27.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B3, C4, D5, E6?\", \"choices\": [\"A) F7\", \"B) G8\", \"C) H9\", \"D) D5\"], \"answer\": \"A\", \"explanation\": \"The series alternates between a letter and a number. The letters follow the sequence A, B, C, D, E, and the numbers increase by 1 each time. The pattern is A2, B3, C4, D5, E6, so the next item should be F7.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A, C, E, G, I, ?\", \"choices\": [\"A) K\", \"B) L\", \"C) M\", \"D) N\"], \"answer\": \"A\", \"explanation\": \"The series consists of alternating letters in the alphabet, skipping one letter each time (A, C, E, G, I, K). Therefore, the next letter is K.\"}"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Generate a difficult MCQ on topic: Series and Patterns/Mixed Series (Alphanumeric). Output ONLY valid JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\"topic\": \"Series and Patterns/Mixed Series (Alphanumeric)\", \"question\": \"What comes next in the series: A2, B4, C6, D8?\", \"choices\": [\"A) E10\", \"B) F12\", \"C) G14\", \"D) H16\"], \"answer\": \"A\", \"explanation\": \"The series alternates between letters and even numbers. The letters follow the sequence A, B, C, D, E... and the numbers increase by 2 each time (2, 4, 6, 8...). Therefore, the next term should be D followed by 10, making it D10.\"}"
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B4, C6, D8, E10, F12, ?",
+    "choices": [
+      "A) G14",
+      "B) H16",
+      "C) I18",
+      "D) J20"
+    ],
+    "answer": "A",
+    "explanation": "The series alternates between letters and even numbers. The letters progress from A to Z, and the numbers increase by 2 each time."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: A, B, C, D, E, F?",
+    "choices": [
+      "A) G",
+      "B) H",
+      "C) I",
+      "D) J"
+    ],
+    "answer": "A",
+    "explanation": "The series follows a simple alphabetical order where each letter is followed by the next letter in the alphabet. The sequence is A, B, C, D, E, F, so the next element is G."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: A, 2, B, 4, C, 6, D, 8?",
+    "choices": [
+      "A) E",
+      "B) 9",
+      "C) F",
+      "D) 10"
+    ],
+    "answer": "A",
+    "explanation": "The series alternates between letters and numbers. Letters follow the order A, B, C, D, E... and numbers are even numbers increasing by 2. The next letter after D is E, but since the pattern alternates, the next element should be the next letter, which is E. However, the correct answer here is F because the pattern actually follows a different logic where the letters progress as A, B, C, D, E, F... and the numbers increase by 2 each time. So the next letter after D is E, but the correct answer is F due to an alternate progression."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, 2, B, 4, C, 6, D, 8, ?",
+    "choices": [
+      "A) E",
+      "B) 9",
+      "C) F",
+      "D) 10"
+    ],
+    "answer": "A",
+    "explanation": "The series alternates between letters and numbers. Letters follow the sequence A, B, C, D, E... and numbers follow the sequence 2, 4, 6, 8, 10... So the next element after D, 8 is E, 10."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, B, C, D, E, F?",
+    "choices": [
+      "A) G",
+      "B) H",
+      "C) I",
+      "D) J"
+    ],
+    "answer": "A",
+    "explanation": "The series follows an alphabetical pattern where each letter increases by one in the alphabet. The sequence is A, B, C, D, E, F, so the next letter is G."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, B, C, D, E, F, ?",
+    "choices": [
+      "A) G",
+      "B) H",
+      "C) I",
+      "D) J"
+    ],
+    "answer": "A",
+    "explanation": "The series follows a simple alphabetical order where each letter increases by one position in the alphabet. The sequence goes from A to F, so the next letter should be G."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: A, B, C, D, ?",
+    "choices": [
+      "A) E",
+      "B) F",
+      "C) G",
+      "D) H"
+    ],
+    "answer": "A",
+    "explanation": "The series follows a simple alphabetical order where each letter is followed by the next letter in the alphabet. The sequence is A, B, C, D, so the next letter is E."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, B, C, D, E, F, G, H, I, J?",
+    "choices": [
+      "A) K",
+      "B) L",
+      "C) M",
+      "D) N"
+    ],
+    "answer": "A",
+    "explanation": "The series follows a simple alphabetical order where each letter increases by one position in the alphabet. The sequence continues from J to K, L, M, and so on. Therefore, the next letter after J is K, but since the options provided do not include K, the closest correct choice based on the given options is D, which represents the next logical step in the sequence."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, B, C, D, E?",
+    "choices": [
+      "A) F",
+      "B) G",
+      "C) H",
+      "D) I"
+    ],
+    "answer": "A",
+    "explanation": "The series follows a simple alphabetical order, where each letter is the next in the alphabet. The sequence continues from A to E, so the next letter is F."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: 0, 1, 1, 2, 3, 5?",
+    "choices": [
+      "A) 8",
+      "B) 7",
+      "C) 6",
+      "D) 9"
+    ],
+    "answer": "A",
+    "explanation": "This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence continues as 0, 1, 1, 2, 3, 5, 8. Therefore, the next number is 8."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: 0, 1, 1, 2, 3, 5, 8?",
+    "choices": [
+      "A) 13",
+      "B) 11",
+      "C) 12",
+      "D) 9"
+    ],
+    "answer": "C",
+    "explanation": "This series follows the Fibonacci sequence where each number is the sum of the two preceding ones. The next number after 8 should be 13, but since the correct answer is given as C, it's likely that the series was altered or the options are misaligned."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: A, B, C, D, E, F, G?",
+    "choices": [
+      "A) H",
+      "B) I",
+      "C) J",
+      "D) K"
+    ],
+    "answer": "A",
+    "explanation": "The series follows a simple alphabetical order where each letter increases by one position in the alphabet. The sequence goes from A to G, so the next letter should be H."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, C, E, G, I?",
+    "choices": [
+      "A) K",
+      "B) J",
+      "C) H",
+      "D) L"
+    ],
+    "answer": "A",
+    "explanation": "The series consists of consecutive letters in the alphabet, skipping one letter each time (A, B, C, D, E...). The pattern is A, C, E, G, I, which skips B, D, F, H respectively. The next letter after I is K."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: A, C, E, G, I, ?",
+    "choices": [
+      "A) K",
+      "B) J",
+      "C) L",
+      "D) M"
+    ],
+    "answer": "A",
+    "explanation": "The series follows an arithmetic pattern where each letter increases by 2 positions in the alphabet. A (1), C (3), E (5), G (7), I (9), so the next letter is J (10)."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B6, C12, D20, E30, F42, ?",
+    "choices": [
+      "A) G56",
+      "B) H58",
+      "C) I60",
+      "D) J62"
+    ],
+    "answer": "A",
+    "explanation": "The series follows a pattern where each term increases by an incrementing even number. The first element is A2, then B6 (+4), C12 (+6), D20 (+8), E30 (+10), F42 (+12). The next increment is +14, so G would be 42 + 14 = 56. Therefore, the next term is G56."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A1, B2, C3, D4, E5, F6, ?",
+    "choices": [
+      "A) G7",
+      "B) H8",
+      "C) I9",
+      "D) J10"
+    ],
+    "answer": "B",
+    "explanation": "The series alternates between letters and numbers. The letters follow the sequence A, B, C, D, E, F, ... and the numbers increase by 1 each time. Therefore, the next letter after F is G and the next number is 7, making the correct answer G7."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: 0, 1, 1, 2, 3, 5, ?",
+    "choices": [
+      "A) 8",
+      "B) 9",
+      "C) 10",
+      "D) 11"
+    ],
+    "answer": "A",
+    "explanation": "This series follows the Fibonacci sequence where each number is the sum of the two preceding ones. The sequence is 0, 1, 1, 2, 3, 5, 8. Therefore, the next number is 8."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: 0, 1, 1, 2, 3, 5?",
+    "choices": [
+      "A) 8",
+      "B) 7",
+      "C) 6",
+      "D) 9"
+    ],
+    "answer": "A",
+    "explanation": "This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence is 0, 1, 1, 2, 3, 5, so the next number should be 8."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B5, C9, D14, E20, ?",
+    "choices": [
+      "A) F27",
+      "B) F26",
+      "C) G27",
+      "D) G26"
+    ],
+    "answer": "A",
+    "explanation": "The series follows an arithmetic pattern where each term increases by an incrementing difference. The differences between terms are +3, +4, +5, +6, so the next difference is +7. Adding 7 to 20 gives 27. Therefore, the next term is F26."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next term in the series: 2, 6, 18, 54, ?",
+    "choices": [
+      "A) 108",
+      "B) 162",
+      "C) 144",
+      "D) 162"
+    ],
+    "answer": "B",
+    "explanation": "This is a geometric sequence where each term is multiplied by 3 to get the next term. 2 \u00d7 3 = 6, 6 \u00d7 3 = 18, 18 \u00d7 3 = 54, 54 \u00d7 3 = 162."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: 0, 1, 1, 2, 3?",
+    "choices": [
+      "A) 5",
+      "B) 4",
+      "C) 6",
+      "D) 7"
+    ],
+    "answer": "A",
+    "explanation": "This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence starts as 0, 1, then 1 (0+1), 2 (1+1), 3 (1+2). The next number should be 5 (2+3), but since D is the correct choice here, it indicates that the pattern might have been altered or the options are misaligned with the expected Fibonacci progression."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, 2, B, 4, C, 6, D?",
+    "choices": [
+      "A) E",
+      "B) 8",
+      "C) F",
+      "D) 8"
+    ],
+    "answer": "B",
+    "explanation": "The pattern alternates between a letter and a number. The letters are A, B, C, D, so the next letter is E. The numbers are 2, 4, 6, so the next number is 8. However, since the question asks for what comes next in the series, and the last element is D (a letter), the next element should be a number, which is 8."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: 2, 6, 18, 54, 162, ?",
+    "choices": [
+      "A) 486",
+      "B) 243",
+      "C) 81",
+      "D) 54"
+    ],
+    "answer": "A",
+    "explanation": "This is a geometric series where each term is multiplied by 3 to get the next term. The pattern is 2 \u00d7 3 = 6, 6 \u00d7 3 = 18, 18 \u00d7 3 = 54, 54 \u00d7 3 = 162, and 162 \u00d7 3 = 486. Therefore, the correct answer should be 486, but since the correct answer is D, it might be a trick question or there may be an error in the options provided."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: A2, B6, C12, D20, ?",
+    "choices": [
+      "A) E30",
+      "B) F28",
+      "C) E24",
+      "D) F30"
+    ],
+    "answer": "A",
+    "explanation": "The pattern in the series is that the second part of each term increases by 4, 6, 8, etc. The first elements (A, B, C, D) follow sequentially, so the next should be E. The second parts are 2, 6, 12, 20, which increase by 4, 6, 8, so the next increase is 10, making it 30. Thus, the next term is E30."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What is the next element in the series: 2, 6, 18, 54, 162, 486, ?",
+    "choices": [
+      "A) 1458",
+      "B) 729",
+      "C) 243",
+      "D) 972"
+    ],
+    "answer": "A",
+    "explanation": "This is a geometric series where each term is multiplied by 3 to get the next term. The sequence goes 2, 6, 18, 54, 162, 486, 1458. Therefore, the correct answer is D) 1458."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B3, C5, D7, E11, F13?",
+    "choices": [
+      "A) G17",
+      "B) H19",
+      "C) I23",
+      "D) J29"
+    ],
+    "answer": "A",
+    "explanation": "The series alternates between letters and prime numbers. The letters follow the sequence A, B, C, D, E, F... and the numbers are prime numbers starting from 2: 2, 3, 5, 7, 11, 13. The next letter is G and the next prime number after 13 is 17, but since the options don't include G17, the correct choice based on the given options is J29, which follows the pattern of the next letter and the next prime number."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: 0, 1, 1, 2, 3?",
+    "choices": [
+      "A) 4",
+      "B) 5",
+      "C) 6",
+      "D) 7"
+    ],
+    "answer": "A",
+    "explanation": "This series follows the Fibonacci pattern where each number is the sum of the two preceding ones. The sequence is 0, 1, 1, 2, 3, so the next number should be 5. However, since the correct answer is D, it indicates that the expected pattern might have been altered or there's an additional rule not specified here."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B3, C5, D7, E11, F13, ?",
+    "choices": [
+      "A) G17",
+      "B) G19",
+      "C) H17",
+      "D) H19"
+    ],
+    "answer": "B",
+    "explanation": "The series alternates between letters and prime numbers. The letters progress as A, B, C, D, E, F, G... and the numbers are prime numbers: 2, 3, 5, 7, 11, 13, 17. The next letter after F is G, and the next prime number after 13 is 17. However, since the pattern alternates between letters and primes, the next number should be the next prime after 17, which is 19. Hence, the correct answer is G19."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B5, C9, D14, E20?",
+    "choices": [
+      "A) F27",
+      "B) G28",
+      "C) H29",
+      "D) I31"
+    ],
+    "answer": "A",
+    "explanation": "The letters advance by one each time (A, B, C, D, E, F...), and the numbers increase by adding consecutive integers (2, 5=2+3, 9=5+4, 14=9+5, 20=14+6, 27=20+7). The next number would be 27, so the next term is F27."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B3, C4, D5, E6?",
+    "choices": [
+      "A) F7",
+      "B) G8",
+      "C) H9",
+      "D) D5"
+    ],
+    "answer": "A",
+    "explanation": "The series alternates between a letter and a number. The letters follow the sequence A, B, C, D, E, and the numbers increase by 1 each time. The pattern is A2, B3, C4, D5, E6, so the next item should be F7."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A, C, E, G, I, ?",
+    "choices": [
+      "A) K",
+      "B) L",
+      "C) M",
+      "D) N"
+    ],
+    "answer": "A",
+    "explanation": "The series consists of alternating letters in the alphabet, skipping one letter each time (A, C, E, G, I, K). Therefore, the next letter is K."
+  },
+  {
+    "topic": "Series and Patterns/Mixed Series (Alphanumeric)",
+    "question": "What comes next in the series: A2, B4, C6, D8?",
+    "choices": [
+      "A) E10",
+      "B) F12",
+      "C) G14",
+      "D) H16"
+    ],
+    "answer": "A",
+    "explanation": "The series alternates between letters and even numbers. The letters follow the sequence A, B, C, D, E... and the numbers increase by 2 each time (2, 4, 6, 8...). Therefore, the next term should be D followed by 10, making it D10."
+  }
+]
