@@ -68,4 +68,3 @@ This repository contains our full solution for the AAIPL (AMD AI Academy Premier
 
 ---
 
-**For any questions, contact: aayush110410@gmail.com**
