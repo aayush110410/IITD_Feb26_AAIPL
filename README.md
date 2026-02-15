@@ -1,4 +1,4 @@
-# AAIPL Hackathon Solution — Qwen3-4B MCQ Agents
+# AAIPL Hackathon Solution — TEAM DCAP 
 
 ## Overview
 This repository contains our full solution for the AAIPL (AMD AI Academy Premier League) hackathon, focused on generating and solving hard MCQ questions using Qwen3-4B and Unsloth on AMD MI300X hardware.
